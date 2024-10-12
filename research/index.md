@@ -4,11 +4,9 @@ nav:
   order: 1
   tooltip: Published works
 ---
+# Research
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research interest focus around the application of oxidoreductases for organic synthesis. These enzymes have a lot to offer for the organic chemist in terms of selectivity and efficiency. In particular, we are interested in biocatalytic oxyfunctionalization reactions using monooxygenases and peroxygenases as well as reduction reactions using alcohol dehydrogenases and ene reductases.
 
 {% include section.html %}
 

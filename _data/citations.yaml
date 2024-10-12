@@ -1,174 +1,4991 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1002/cssc.202301321
+  title: "Peroxygenase\u2010Catalysed Sulfoxidations in Non\u2010Aqueous Media"
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Huanhuan Li
+  - Qianqian Shen
+  - Xiaoying Zhou
+  - Peigao Duan
+  - Frank Hollmann
+  - Yawen Huang
+  - Wuyuan Zhang
+  publisher: ChemSusChem
+  date: '2023-11-22'
+  link: https://doi.org/g7897n
+  orcid: 0000-0003-4821-756X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1021/acscatal.3c05333
+  title: Vanadium-Containing Chloroperoxidase-Catalyzed Versatile Valorization of
+    Phenols and Phenolic Acids
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Huanhuan Li
+  - Peigao Duan
+  - Yawen Huang
+  - Chengsen Cui
+  - Frank Hollmann
+  - Yunjian Ma
+  - Yonghua Wang
+  - Jie Zhang
+  - Weidong Liu
+  - Wuyuan Zhang
+  publisher: ACS Catalysis
+  date: '2024-01-18'
+  link: https://doi.org/g7897s
+  orcid: 0000-0003-4821-756X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1021/acscatal.3c04995
+  title: "Substrate-Specific Evolution of Amine Dehydrogenases for Accessing Structurally\
+    \ Diverse Enantiopure (<i>R</i>)-\u03B2-Amino Alcohols"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Xinjian Yin
+  - Wenzhong Gong
+  - Yujing Zeng
+  - Hulin Qiu
+  - Lan Liu
+  - Frank Hollmann
+  - Bishuang Chen
+  publisher: ACS Catalysis
+  date: '2024-01-03'
+  link: https://doi.org/g7897x
+  orcid: 0000-0003-4821-756X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1038/s41467-023-44452-z
+  title: "Asymmetric \u03B1-benzylation of cyclic ketones enabled by concurrent chemical\
+    \ aldol condensation and biocatalytic reduction"
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Yunting Liu
+  - Teng Ma
+  - Zhongxu Guo
+  - Liya Zhou
+  - Guanhua Liu
+  - Ying He
+  - Li Ma
+  - Jing Gao
+  - Jing Bai
+  - Frank Hollmann
+  - Yanjun Jiang
+  publisher: Nature Communications
+  date: '2024-01-02'
+  link: https://doi.org/g78973
+  orcid: 0000-0003-4821-756X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.greenca.2023.10.004
+  title: Mirror, mirror on the wall, which is the greenest of them all? A critical
+    comparison of chemo- and biocatalytic oxyfunctionalisation reactions
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Yinqi Wu
+  - Caroline E. Paul
+  - Frank Hollmann
+  publisher: Green Carbon
+  date: '2023-12-01'
+  link: https://doi.org/g78976
+  orcid: 0000-0003-4821-756X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1016/j.apcatb.2023.122925
+  title: Photoelectrocatalytic N2 fixation and C-H oxyfunctionalization driven by
+    H2O oxidation
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Chang Hyun Kim
+  - Jinhyun Kim
+  - Frank Hollmann
+  - Chan Beum Park
+  publisher: 'Applied Catalysis B: Environmental'
+  date: '2023-11-01'
+  link: https://doi.org/g7898c
+  orcid: 0000-0003-4821-756X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1098/rsif.2023.0299
+  title: Immobilization protects enzymes from plasma-mediated inactivation
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Tim Dirks
+  - Abdulkadir Yayci
+  - Sabrina Klopsch
+  - Marco Krewing
+  - Wuyuan Zhang
+  - Frank Hollmann
+  - Julia E. Bandow
+  publisher: Journal of The Royal Society Interface
+  date: '2023-10-01'
+  link: https://doi.org/g7898g
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mcat.2023.113396
+  title: Biosynthesis of cyclic ketones by a H2O2 self-sufficient cascade reaction
+  authors:
+  - Bin Wu
+  - Xiangyun Wang
+  - Bo Yang
+  - Yunjian Ma
+  - Frank Hollmann
+  - Yonghua Wang
+  publisher: Molecular Catalysis
+  date: '2023-08-01'
+  link: https://doi.org/g7239p
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.oprd.3c00135
+  title: Toward Kilogram-Scale Peroxygenase-Catalyzed Oxyfunctionalization of Cyclohexane
+  authors:
+  - Thomas Hilberath
+  - Remco van Oosten
+  - Juliet Victoria
+  - Hugo Brasselet
+  - Miguel Alcalde
+  - John M. Woodley
+  - Frank Hollmann
+  publisher: Organic Process Research &amp; Development
+  date: '2023-06-09'
+  link: https://doi.org/g7898p
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.orglett.3c01601
+  title: Lactones from Unspecific Peroxygenase-Catalyzed In-Chain Hydroxylation of
+    Saturated Fatty Acids
+  authors:
+  - Ana C. Ebrecht
+  - Thato M. Mofokeng
+  - Frank Hollmann
+  - Martha S. Smit
+  - Diederik J. Opperman
+  publisher: Organic Letters
+  date: '2023-06-30'
+  link: https://doi.org/g7898v
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.biomac.3c00262
+  title: Enhancing the ROS Sensitivity of a Responsive Supramolecular Hydrogel Using
+    Peroxizyme Catalysis
+  authors:
+  - Irene Piergentili
+  - Thomas Hilberath
+  - Benjamin Klemm
+  - Frank Hollmann
+  - Rienk Eelkema
+  publisher: Biomacromolecules
+  date: '2023-06-23'
+  link: https://doi.org/g78982
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.202300645
+  title: "Selective Peroxygenase\u2010Catalysed Oxidation of Toluene Derivates to\
+    \ Benzaldehydes"
+  authors:
+  - Yutong Wang
+  - Niklas Teetz
+  - Dirk Holtmann
+  - Miguel Alcalde
+  - Jacob M. A. van Hengst
+  - Xiaoxiao Liu
+  - Mengfan Wang
+  - Wei Qi
+  - Wuyuan Zhang
+  - Frank Hollmann
+  publisher: ChemCatChem
+  date: '2023-06-16'
+  link: https://doi.org/g78987
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mcat.2023.113275
+  title: A novel unspecific peroxygenase from Agaricus bisporus var. bisporus for
+    biocatalytic oxyfunctionalisation reactions
+  authors:
+  - Tiantian Li
+  - Hongjing Liang
+  - Bin Wu
+  - Dongming Lan
+  - Yunjian Ma
+  - Frank Hollmann
+  - Yonghua Wang
+  publisher: Molecular Catalysis
+  date: '2023-07-01'
+  link: https://doi.org/g78988
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/anie.202302844
+  title: "Peroxygenase\u2010Catalysed Selective Oxidation of Silanes to Silanols"
+  authors:
+  - Xiaomin Xu
+  - Jacob M. A. van Hengst
+  - Yejia Mao
+  - Mireia Martinez
+  - Sergi Roda
+  - Martin Floor
+  - Victor Guallar
+  - Caroline E. Paul
+  - Miguel Alcalde
+  - Frank Hollmann
+  publisher: Angewandte Chemie International Edition
+  date: '2023-05-04'
+  link: https://doi.org/g7899c
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ange.202302844
+  title: "Peroxygenase\u2010Catalysed Selective Oxidation of Silanes to Silanols"
+  authors:
+  - Xiaomin Xu
+  - Jacob M. A. van Hengst
+  - Yejia Mao
+  - Mireia Martinez
+  - Sergi Roda
+  - Martin Floor
+  - Victor Guallar
+  - Caroline E. Paul
+  - Miguel Alcalde
+  - Frank Hollmann
+  publisher: Angewandte Chemie
+  date: '2023-05-04'
+  link: https://doi.org/g7899h
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.202300411
+  title: "Peroxygenase\u2010Promoted Enzymatic Cascades for the Valorisation of Fatty\
+    \ Acids"
+  authors:
+  - Yinqi Wu
+  - Caroline E. Paul
+  - Thomas Hilberath
+  - Ewald P. J. Jongkind
+  - Wuyuan Zhang
+  - Miguel Alcalde
+  - Frank Hollmann
+  publisher: ChemCatChem
+  date: '2023-04-17'
+  link: https://doi.org/g7mqbb
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.202300553
+  title: "Peroxygenase\u2010Promoted Enzymatic Cascades for the Valorisation of Fatty\
+    \ Acids Front Cover: (ChemCatChem 11/2023)"
+  authors:
+  - Yinqi Wu
+  - Caroline E. Paul
+  - Thomas Hilberath
+  - Ewald P. J. Jongkind
+  - Wuyuan Zhang
+  - Miguel Alcalde
+  - Frank Hollmann
+  publisher: ChemCatChem
+  date: '2023-05-22'
+  link: https://doi.org/g7899q
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tetlet.2023.154524
+  title: A solvent-free synthesis of (thio)ester derivatives using FeCl3 as a heterogeneous
+    catalyst
+  authors:
+  - Sabry H.H. Younes
+  - F. Hollmann
+  publisher: Tetrahedron Letters
+  date: '2023-06-01'
+  link: https://doi.org/g7899s
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/molecules28104125
+  title: "Contribution of Enzyme Catalysis to the Achievement of the United Nations\u2019\
+    \ Sustainable Development Goals"
+  authors:
+  - Dirk Holtmann
+  - Frank Hollmann
+  - Britte Bouchaut
+  publisher: Molecules
+  date: '2023-05-16'
+  link: https://doi.org/g7899v
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jafc.3c01069
+  title: "Structure-Based Redesign of a Methanol Oxidase into an \u201CAryl Alcohol\
+    \ Oxidase\u201D for Enzymatic Synthesis of Aromatic Flavor Compounds"
+  authors:
+  - Bin Wu
+  - Shiyu Wang
+  - Yunjian Ma
+  - Shuguang Yuan
+  - Frank Hollmann
+  - Yonghua Wang
+  publisher: Journal of Agricultural and Food Chemistry
+  date: '2023-04-11'
+  link: https://doi.org/g6jj2h
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.202201623
+  title: Hybrid Organometallic and Enzymatic Tandem Catalysis for Oxyfunctionalisation
+    Reactions
+  authors:
+  - Chiara Domestici
+  - Yinqi Wu
+  - Thomas Hilberath
+  - Miguel Alcalde
+  - Frank Hollmann
+  - Alceo Macchioni
+  publisher: ChemCatChem
+  date: '2023-03-24'
+  link: https://doi.org/g7899x
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/jacs.2c11118
+  title: "Repertoire of Computationally Designed Peroxygenases for Enantiodivergent\
+    \ C\u2013H Oxyfunctionalization Reactions"
+  authors:
+  - Patricia Gomez de Santos
+  - Ivan Mateljak
+  - Manh Dat Hoang
+  - Sarel J. Fleishman
+  - Frank Hollmann
+  - Miguel Alcalde
+  publisher: Journal of the American Chemical Society
+  date: '2023-01-23'
+  link: https://doi.org/g78993
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/catal13010145
+  title: Bienzymatic Cascade Combining a Peroxygenase with an Oxidase for the Synthesis
+    of Aromatic Aldehydes from Benzyl Alcohols
+  authors:
+  - Yunjian Ma
+  - Zongquan Li
+  - Hao Zhang
+  - Vincent Kam Wai Wong
+  - Frank Hollmann
+  - Yonghua Wang
+  publisher: Catalysts
+  date: '2023-01-08'
+  link: https://doi.org/g78997
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D3RE00209H
+  title: Aromatic hydroxylation of substituted benzenes by an unspecific peroxygenase
+    from <i>Aspergillus brasiliensis</i>
+  authors:
+  - Fabian Schmitz
+  - Katja Koschorreck
+  - Frank Hollmann
+  - Vlada B. Urlacher
+  publisher: Reaction Chemistry &amp; Engineering
+  date: '2023-01-01'
+  link: https://doi.org/g79bbg
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cbic.202200482
+  title: Immobilization and Application of Fatty Acid Photodecarboxylase in Deep Eutectic
+    Solvents
+  authors:
+  - Santiago Nahuel Chanquia
+  - Frederik Vig Benfeldt
+  - "No\xE9mi Petrovai"
+  - Paul Santner
+  - Frank Hollmann
+  - Bekir Engin Eser
+  - Selin Kara
+  publisher: ChemBioChem
+  date: '2022-11-10'
+  link: https://doi.org/g79bbk
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cbic.202200367
+  title: "A Photochemoenzymatic Hunsdiecker\u2010Borodin\u2010Type Halodecarboxylation\
+    \ of Ferulic Acid"
+  authors:
+  - Claudio Zippilli
+  - Miguel Jimenez Bartolome
+  - Thomas Hilberath
+  - Lorenzo Botta
+  - Frank Hollmann
+  - Raffaele Saladino
+  publisher: ChemBioChem
+  date: '2022-08-23'
+  link: https://doi.org/g7mv3f
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mcat.2022.112707
+  title: A Novel Unspecific Peroxygenase from Galatian marginata for Biocatalytic
+    Oxyfunctionalization Reactions
+  authors:
+  - Yunjian Ma
+  - Hongjing Liang
+  - Zexin Zhao
+  - Bin Wu
+  - Dongming Lan
+  - Frank Hollmann
+  - Yonghua Wang
+  publisher: Molecular Catalysis
+  date: '2022-10-01'
+  link: https://doi.org/g79bbr
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s44160-022-00153-x
+  title: Photoelectrocatalytic biosynthesis fuelled by microplastics
+  authors:
+  - Jinhyun Kim
+  - Jinha Jang
+  - Thomas Hilberath
+  - Frank Hollmann
+  - Chan Beum Park
+  publisher: Nature Synthesis
+  date: '2022-09-12'
+  link: https://doi.org/gtpvwb
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mcat.2022.112469
+  title: Continuous-flow CvFAP photodecarboxylation of palmitic acid under environmentally
+    friendly conditions
+  authors:
+  - "Luiza A.D. Beninc\xE1"
+  - "Alexandre S. Fran\xE7a"
+  - "Gabriela C. Br\xEAda"
+  - "Raquel A.C. Le\xE3o"
+  - Rodrigo V. Almeida
+  - Frank Hollmann
+  - Rodrigo O.M.A. de Souza
+  publisher: Molecular Catalysis
+  date: '2022-08-01'
+  link: https://doi.org/g527m8
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-022-31870-8
+  title: Differences in barriers for controlled learning about safety between biotechnology
+    and chemistry
+  authors:
+  - Britte Bouchaut
+  - Frank Hollmann
+  - Lotte Asveld
+  publisher: Nature Communications
+  date: '2022-07-14'
+  link: https://doi.org/g7hd3p
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-022-31363-8
+  title: Heat-fueled enzymatic cascade for selective oxyfunctionalization of hydrocarbons
+  authors:
+  - Jaeho Yoon
+  - Hanhwi Jang
+  - Min-Wook Oh
+  - Thomas Hilberath
+  - Frank Hollmann
+  - Yeon Sik Jung
+  - Chan Beum Park
+  publisher: Nature Communications
+  date: '2022-06-29'
+  link: https://doi.org/g79bb6
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.orglett.2c01547
+  title: A Biocatalytic Platform for the Synthesis of Enantiopure Propargylic Alcohols
+    and Amines
+  authors:
+  - Xianke Sang
+  - Feifei Tong
+  - Zhigang Zeng
+  - Minghu Wu
+  - Bo Yuan
+  - Zhoutong Sun
+  - Xiang Sheng
+  - Ge Qu
+  - Miguel Alcalde
+  - Frank Hollmann
+  - Wuyuan Zhang
+  publisher: Organic Letters
+  date: '2022-06-07'
+  link: https://doi.org/g79bb8
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acscatal.2c00485
+  title: Chemoenzymatic Hunsdiecker-Type Decarboxylative Bromination of Cinnamic Acids
+  authors:
+  - Huanhuan Li
+  - Sabry H. H. Younes
+  - Shaohang Chen
+  - Peigao Duan
+  - Chengsen Cui
+  - Ron Wever
+  - Wuyuan Zhang
+  - Frank Hollmann
+  publisher: ACS Catalysis
+  date: '2022-04-04'
+  link: https://doi.org/g79bcc
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cbic.202200017
+  title: "A Peroxygenase\u2010Alcohol Dehydrogenase Cascade Reaction to Transform\
+    \ Ethylbenzene Derivatives into Enantioenriched Phenylethanols"
+  authors:
+  - Xiaomin Xu
+  - Hugo Brasselet
+  - Ewald P. J. Jongkind
+  - Miguel Alcalde
+  - Caroline E. Paul
+  - Frank Hollmann
+  publisher: ChemBioChem
+  date: '2022-01-27'
+  link: https://doi.org/g79bcg
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s44160-022-00035-2
+  title: "Lignin as a multifunctional photocatalyst for solar-powered biocatalytic\
+    \ oxyfunctionalization of C\u2013H bonds"
+  authors:
+  - Jinhyun Kim
+  - Trang Vu Thien Nguyen
+  - Yong Hwan Kim
+  - Frank Hollmann
+  - Chan Beum Park
+  publisher: Nature Synthesis
+  date: '2022-03-10'
+  link: https://doi.org/g79bcj
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsami.1c24342
+  title: "Unbiased Photoelectrode Interfaces for Solar Coupling of Lignin Oxidation\
+    \ with Biocatalytic C\u2550C Bond Hydrogenation"
+  authors:
+  - Jinhyun Kim
+  - Yunna Um
+  - Seunghyun Han
+  - Thomas Hilberath
+  - Yong Hwan Kim
+  - Frank Hollmann
+  - Chan Beum Park
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2022-02-23'
+  link: https://doi.org/g79bck
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D2CC02411J
+  title: A hydrogen-driven biocatalytic approach to recycling synthetic analogues
+    of NAD(P)H
+  authors:
+  - Holly A. Reeve
+  - Jake Nicholson
+  - Farieha Altaf
+  - Thomas H. Lonsdale
+  - Janina Preissler
+  - Lars Lauterbach
+  - Oliver Lenz
+  - "Silke Leimk\xFChler"
+  - Frank Hollmann
+  - Caroline E. Paul
+  - Kylie A. Vincent
+  publisher: Chemical Communications
+  date: '2022-01-01'
+  link: https://doi.org/g79bcp
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D1CS00100K
+  title: Biocatalysis making waves in organic chemistry
+  authors:
+  - Ulf Hanefeld
+  - Frank Hollmann
+  - Caroline E. Paul
+  publisher: Chemical Society Reviews
+  date: '2022-01-01'
+  link: https://doi.org/gnt6x4
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D2SC03483B
+  title: Light-driven biocatalytic oxidation
+  authors:
+  - Chul-Ho Yun
+  - Jinhyun Kim
+  - Frank Hollmann
+  - Chan Beum Park
+  publisher: Chemical Science
+  date: '2022-01-01'
+  link: https://doi.org/g79bcw
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/molecules26206286
+  title: Choline Chloride-Based DES as Solvents/Catalysts/Chemical Donors in Pharmaceutical
+    Synthesis
+  authors:
+  - Rosa Amoroso
+  - Frank Hollmann
+  - Cristina Maccallini
+  publisher: Molecules
+  date: '2021-10-18'
+  link: https://doi.org/gtwsrg
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/catal11080982
+  title: Two (Chemo)-Enzymatic Cascades for the Production of Opposite Enantiomers
+    of Chiral Azidoalcohols
+  authors:
+  - Elia Calderini
+  - "Philipp S\xFCss"
+  - Frank Hollmann
+  - Rainer Wardenga
+  - Anett Schallmey
+  publisher: Catalysts
+  date: '2021-08-17'
+  link: https://doi.org/g79bc7
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00253-021-11465-x
+  title: Novel oleate hydratases and potential biotechnological applications
+  authors:
+  - Peter Leon Hagedoorn
+  - Frank Hollmann
+  - Ulf Hanefeld
+  publisher: Applied Microbiology and Biotechnology
+  date: '2021-08-01'
+  link: https://doi.org/g79bdd
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cbic.202100182
+  title: Stabilisation of the Fatty Acid Decarboxylase from <i>Chlorella variabilis</i>
+    by Caprylic Acid
+  authors:
+  - Yinqi Wu
+  - Caroline E. Paul
+  - Frank Hollmann
+  publisher: ChemBioChem
+  date: '2021-06-01'
+  link: https://doi.org/g79bdg
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.oprd.1c00116
+  title: Pilot-Scale Production of Peroxygenase from <i>Agrocybe aegerita</i>
+  authors:
+  - Fabio Tonin
+  - Florian Tieves
+  - "S\xE9bastien Willot"
+  - Anouska van Troost
+  - Remco van Oosten
+  - Stefaan Breestraat
+  - Sander van Pelt
+  - Miguel Alcalde
+  - Frank Hollmann
+  publisher: Organic Process Research &amp; Development
+  date: '2021-06-09'
+  link: https://doi.org/gkhhz5
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijerph18126329
+  title: 'Safe-by-Design in Engineering: An Overview and Comparative Analysis of Engineering
+    Disciplines'
+  authors:
+  - Pieter van Gelder
+  - Pim Klaassen
+  - Behnam Taebi
+  - Bart Walhout
+  - Ruud van Ommen
+  - Ibo van de Poel
+  - Zoe Robaey
+  - Lotte Asveld
+  - Ruud Balkenende
+  - Frank Hollmann
+  - Erik Jan van Kampen
+  - Nima Khakzad
+  - Robbert Krebbers
+  - Jos de Lange
+  - Wolter Pieters
+  - Karel Terwel
+  - Eelco Visser
+  - Tiny van der Werff
+  - Dick Jung
+  publisher: International Journal of Environmental Research and Public Health
+  date: '2021-06-11'
+  link: https://doi.org/gkkf8x
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/catal11050560
+  title: Immobilization of the Peroxygenase from Agrocybe aegerita. The Effect of
+    the Immobilization pH on the Features of an Ionically Exchanged Dimeric Peroxygenase
+  authors:
+  - Diego Carballares
+  - Roberto Morellon-Sterling
+  - Xiaomin Xu
+  - Frank Hollmann
+  - Roberto Fernandez-Lafuente
+  publisher: Catalysts
+  date: '2021-04-28'
+  link: https://doi.org/g79bdp
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tibtech.2020.12.004
+  title: Production of Bio-alkanes from Biomass and CO2
+  authors:
+  - Richen Lin
+  - Chen Deng
+  - Wuyuan Zhang
+  - Frank Hollmann
+  - Jerry D. Murphy
+  publisher: Trends in Biotechnology
+  date: '2021-04-01'
+  link: https://doi.org/ghs5s4
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/anie.202001876
+  title: Biocatalytic Reduction Reactions from a Chemist's Perspective
+  authors:
+  - Frank Hollmann
+  - Diederik J. Opperman
+  - Caroline E. Paul
+  publisher: Angewandte Chemie International Edition
+  date: '2020-11-03'
+  link: https://doi.org/gksph8
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ange.202001876
+  title: Biokatalytische Reduktionen aus der Sicht eines Chemikers
+  authors:
+  - Frank Hollmann
+  - Diederik J. Opperman
+  - Caroline E. Paul
+  publisher: Angewandte Chemie
+  date: '2020-11-03'
+  link: https://doi.org/g79bdv
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acscatal.0c05588
+  title: Biocatalytic Aromaticity-Breaking Epoxidation of Naphthalene and Nucleophilic
+    Ring-Opening Reactions
+  authors:
+  - Wuyuan Zhang
+  - Huanhuan Li
+  - Sabry H. H. Younes
+  - "Patricia G\xF3mez de Santos"
+  - Florian Tieves
+  - Gideon Grogan
+  - Martin Pabst
+  - Miguel Alcalde
+  - Adrian C. Whitwood
+  - Frank Hollmann
+  publisher: ACS Catalysis
+  date: '2021-02-12'
+  link: https://doi.org/gh2t87
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cssc.202002957
+  title: Intensification of Photobiocatalytic Decarboxylation of Fatty Acids for the
+    Production of Biodiesel
+  authors:
+  - Hong T. Duong
+  - Yinqi Wu
+  - Alexander Sutor
+  - Bastien O. Burek
+  - Frank Hollmann
+  - Jonathan Z. Bloh
+  publisher: ChemSusChem
+  date: '2021-02-02'
+  link: https://doi.org/g79bd2
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1361-6463/abb979
+  title: Protection strategies for biocatalytic proteins under plasma treatment
+  authors:
+  - Abdulkadir Yayci
+  - Tim Dirks
+  - Friederike Kogelheide
+  - Miguel Alcalde
+  - Frank Hollmann
+  - Peter Awakowicz
+  - Julia E Bandow
+  publisher: 'Journal of Physics D: Applied Physics'
+  date: '2020-11-06'
+  link: https://doi.org/g79bd5
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D1CC01868J
+  title: An alginate-confined peroxygenase-CLEA for styrene epoxidation
+  authors:
+  - Friederike E. H. Nintzel
+  - Yinqi Wu
+  - Matteo Planchestainer
+  - Martin Held
+  - Miguel Alcalde
+  - Frank Hollmann
+  publisher: Chemical Communications
+  date: '2021-01-01'
+  link: https://doi.org/g79bd8
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D1GC00372K
+  title: "Aqueous chemoenzymatic one-pot enantioselective synthesis of tertiary \u03B1\
+    -aryl cycloketones <i>via</i> Pd-catalyzed C\u2013C formation and enzymatic C\uE001\
+    C asymmetric hydrogenation"
+  authors:
+  - Pengqian Luan
+  - Yunting Liu
+  - Yongxing Li
+  - Ran Chen
+  - Chen Huang
+  - Jing Gao
+  - Frank Hollmann
+  - Yanjun Jiang
+  publisher: Green Chemistry
+  date: '2021-01-01'
+  link: https://doi.org/g79bfb
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D1CY00855B
+  title: Asymmetric azidohydroxylation of styrene derivatives mediated by a biomimetic
+    styrene monooxygenase enzymatic cascade
+  authors:
+  - "L\xEDa Mart\xEDnez-Montero"
+  - Dirk Tischler
+  - "Philipp S\xFCss"
+  - Anett Schallmey
+  - Maurice C. R. Franssen
+  - Frank Hollmann
+  - Caroline E. Paul
+  publisher: Catalysis Science &amp; Technology
+  date: '2021-01-01'
+  link: https://doi.org/g79bff
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acscatal.0c04108
+  title: 'A Pioneering Career in Catalysis: Manfred T. Reetz'
+  authors:
+  - Carlos G. Acevedo-Rocha
+  - Frank Hollmann
+  - Joaquin Sanchis
+  - Zhoutong Sun
+  publisher: ACS Catalysis
+  date: '2020-12-08'
+  link: https://doi.org/g79bfj
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.202001225
+  title: "Microscale Atmospheric Pressure Plasma Jet as a Source for Plasma\u2010\
+    Driven Biocatalysis"
+  authors:
+  - Abdulkadir Yayci
+  - Tim Dirks
+  - Friederike Kogelheide
+  - Miguel Alcalde
+  - Frank Hollmann
+  - Peter Awakowicz
+  - Julia E. Bandow
+  publisher: ChemCatChem
+  date: '2020-09-23'
+  link: https://doi.org/gz94tx
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acscatal.0c03059
+  title: 'Nuclear Waste and Biocatalysis: A Sustainable Liaison?'
+  authors:
+  - Wuyuan Zhang
+  - Huanhuan Liu
+  - Morten M. C. H. van Schie
+  - Peter-Leon Hagedoorn
+  - Miguel Alcalde
+  - Antonia G. Denkova
+  - Kristina Djanashvili
+  - Frank Hollmann
+  publisher: ACS Catalysis
+  date: '2020-11-20'
+  link: https://doi.org/gntw8v
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acscatal.0c03029
+  title: "Evolved Peroxygenase\u2013Aryl Alcohol Oxidase Fusions for Self-Sufficient\
+    \ Oxyfunctionalization Reactions"
+  authors:
+  - Patricia Gomez de Santos
+  - Sofia Lazaro
+  - "Javier Vi\xF1a-Gonzalez"
+  - Manh Dat Hoang
+  - "Israel S\xE1nchez-Moreno"
+  - Anton Glieder
+  - Frank Hollmann
+  - Miguel Alcalde
+  publisher: ACS Catalysis
+  date: '2020-11-05'
+  link: https://doi.org/gnthzz
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/anie.202009421
+  title: "Cover Picture: Solar\u2010Assisted eBiorefinery: Photoelectrochemical Pairing\
+    \ of Oxyfunctionalization and Hydrogenation Reactions (Angew. Chem. Int. Ed. 37/2020)"
+  authors:
+  - Da Som Choi
+  - Jinhyun Kim
+  - Frank Hollmann
+  - Chan Beum Park
+  publisher: Angewandte Chemie International Edition
+  date: '2020-07-20'
+  link: https://doi.org/g79bft
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ange.202006893
+  title: "Solar\u2010Assisted eBiorefinery: Photoelectrochemical Pairing of Oxyfunctionalization\
+    \ and Hydrogenation Reactions"
+  authors:
+  - Da Som Choi
+  - Jinhyun Kim
+  - Frank Hollmann
+  - Chan Beum Park
+  publisher: Angewandte Chemie
+  date: '2020-07-02'
+  link: https://doi.org/g79bfw
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/anie.202006893
+  title: "Solar\u2010Assisted eBiorefinery: Photoelectrochemical Pairing of Oxyfunctionalization\
+    \ and Hydrogenation Reactions"
+  authors:
+  - Da Som Choi
+  - Jinhyun Kim
+  - Frank Hollmann
+  - Chan Beum Park
+  publisher: Angewandte Chemie International Edition
+  date: '2020-07-02'
+  link: https://doi.org/g79bf2
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ange.202009421
+  title: "Titelbild: Solar\u2010Assisted eBiorefinery: Photoelectrochemical Pairing\
+    \ of Oxyfunctionalization and Hydrogenation Reactions (Angew. Chem. 37/2020)"
+  authors:
+  - Da Som Choi
+  - Jinhyun Kim
+  - Frank Hollmann
+  - Chan Beum Park
+  publisher: Angewandte Chemie
+  date: '2020-07-20'
+  link: https://doi.org/g79bf4
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/catal10090952
+  title: Biocatalytic Oxidation of Alcohols
+  authors:
+  - Hendrik Puetz
+  - "Eva Puch\u013Eov\xE1"
+  - "Kvetoslava Vrankov\xE1"
+  - Frank Hollmann
+  publisher: Catalysts
+  date: '2020-08-20'
+  link: https://doi.org/g79bf5
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acscatal.0c01958
+  title: Water-Soluble Anthraquinone Photocatalysts Enable Methanol-Driven Enzymatic
+    Halogenation and Hydroxylation Reactions
+  authors:
+  - Bo Yuan
+  - Durga Mahor
+  - Qiang Fei
+  - Ron Wever
+  - Miguel Alcalde
+  - Wuyuan Zhang
+  - Frank Hollmann
+  publisher: ACS Catalysis
+  date: '2020-06-30'
+  link: https://doi.org/g79bf7
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.202000431
+  title: "Enzymatic Oxidation of Butane to 2\u2010Butanol in a Bubble Column"
+  authors:
+  - Frederic Perz
+  - Sebastian Bormann
+  - Roland Ulber
+  - Miguel Alcalde
+  - Paul Bubenheim
+  - Frank Hollmann
+  - Dirk Holtmann
+  - Andreas Liese
+  publisher: ChemCatChem
+  date: '2020-06-09'
+  link: https://doi.org/g79bf9
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.202000197
+  title: "FOx News: Towards Methanol\u2010driven Biocatalytic Oxyfunctionalisation\
+    \ Reactions"
+  authors:
+  - "S\xE9bastien J.\u2010P. Willot"
+  - Manh Dat Hoang
+  - Caroline E. Paul
+  - Miguel Alcalde
+  - Isabel W. C. E. Arends
+  - Andreas S. Bommarius
+  - Bettina Bommarius
+  - Frank Hollmann
+  publisher: ChemCatChem
+  date: '2020-04-01'
+  link: https://doi.org/g79bgb
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-020-16099-7
+  title: Photobiocatalytic synthesis of chiral secondary fatty alcohols from renewable
+    unsaturated fatty acids
+  authors:
+  - Wuyuan Zhang
+  - Jeong-Hoo Lee
+  - Sabry H. H. Younes
+  - Fabio Tonin
+  - Peter-Leon Hagedoorn
+  - Harald Pichler
+  - Yoonjin Baeg
+  - Jin-Byung Park
+  - Robert Kourist
+  - Frank Hollmann
+  publisher: Nature Communications
+  date: '2020-05-07'
+  link: https://doi.org/gg2bhs
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acscatal.0c00188
+  title: "Piezobiocatalysis: Ultrasound-Driven Enzymatic Oxyfunctionalization of C\u2013\
+    H Bonds"
+  authors:
+  - Jaeho Yoon
+  - Jinhyun Kim
+  - Florian Tieves
+  - Wuyuan Zhang
+  - Miguel Alcalde
+  - Frank Hollmann
+  - Chan Beum Park
+  publisher: ACS Catalysis
+  date: '2020-03-18'
+  link: https://doi.org/g79bgg
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cssc.201903438
+  title: "Plasma\u2010Driven in\u2005Situ Production of Hydrogen Peroxide for Biocatalysis"
+  authors:
+  - Abdulkadir Yayci
+  - "\xC1lvaro G\xF3mez Baraibar"
+  - Marco Krewing
+  - Elena Fernandez Fueyo
+  - Frank Hollmann
+  - Miguel Alcalde
+  - Robert Kourist
+  - Julia E. Bandow
+  publisher: ChemSusChem
+  date: '2020-03-18'
+  link: https://doi.org/gh7m4n
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.202000250
+  title: 'Front Cover: Towards Preparative Chemoenzymatic Oxidative Decarboxylation
+    of Glutamic Acid (ChemCatChem 8/2020)'
+  authors:
+  - Xiaomin Xu
+  - Andrada But
+  - Ron Wever
+  - Frank Hollmann
+  publisher: ChemCatChem
+  date: '2020-04-08'
+  link: https://doi.org/g79bgk
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201902194
+  title: Towards Preparative Chemoenzymatic Oxidative Decarboxylation of Glutamic
+    Acid
+  authors:
+  - Xiaomin Xu
+  - Andrada But
+  - Ron Wever
+  - Frank Hollmann
+  publisher: ChemCatChem
+  date: '2020-01-22'
+  link: https://doi.org/g79bgq
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cbic.201900685
+  title: "Metals in Biotechnology: Cr\u2010Driven Stereoselective Reduction of Conjugated\
+    \ C=C Double Bonds"
+  authors:
+  - Marine C. R. Rauch
+  - Yann Gallou
+  - "L\xE9na Delorme"
+  - Caroline E. Paul
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  publisher: ChemBioChem
+  date: '2019-12-19'
+  link: https://doi.org/g79bgt
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201902044
+  title: "Flavoenzyme\u2010mediated Regioselective Aromatic Hydroxylation with Coenzyme\
+    \ Biomimetics"
+  authors:
+  - Alice Guarneri
+  - Adrie H. Westphal
+  - Jos Leertouwer
+  - Joy Lunsonga
+  - Maurice C. R. Franssen
+  - Diederik J. Opperman
+  - Frank Hollmann
+  - Willem J. H. van Berkel
+  - Caroline E. Paul
+  publisher: ChemCatChem
+  date: '2020-01-23'
+  link: https://doi.org/g79bgx
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acssuschemeng.9b07494
+  title: Chemoenzymatic Halocyclization of 4-Pentenoic Acid at Preparative Scale
+  authors:
+  - "Georg T. H\xF6fler"
+  - Andrada But
+  - Sabry H. H. Younes
+  - Ron Wever
+  - Caroline E. Paul
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  publisher: ACS Sustainable Chemistry &amp; Engineering
+  date: '2020-01-31'
+  link: https://doi.org/g79bg3
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cssc.201902240
+  title: "Chemoenzymatic Halocyclization of \u03B3,\u03B4\u2010Unsaturated Carboxylic\
+    \ Acids and Alcohols"
+  authors:
+  - Sabry H. H. Younes
+  - Florian Tieves
+  - Dongming Lan
+  - Yonghua Wang
+  - "Philipp S\xFCss"
+  - Henrike Brundiek
+  - Ron Wever
+  - Frank Hollmann
+  publisher: ChemSusChem
+  date: '2019-10-22'
+  link: https://doi.org/g79bg5
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cssc.201903372
+  title: "Chemoenzymatic Halocyclization of \u03B3,\u03B4\u2010Unsaturated Carboxylic\
+    \ Acids and Alcohols"
+  authors:
+  - Sabry H. H. Younes
+  - Florian Tieves
+  - Dongming Lan
+  - Yonghua Wang
+  - "Philipp S\xFCss"
+  - Henrike Brundiek
+  - Ron Wever
+  - Frank Hollmann
+  publisher: ChemSusChem
+  date: '2019-12-30'
+  link: https://doi.org/g79bg9
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cssc.201903373
+  title: "Front Cover: Chemoenzymatic Halocyclization of \u03B3,\u03B4\u2010Unsaturated\
+    \ Carboxylic Acids and Alcohols (ChemSusChem 1/2020)"
+  authors:
+  - Sabry H. H. Younes
+  - Florian Tieves
+  - Dongming Lan
+  - Yonghua Wang
+  - "Philipp S\xFCss"
+  - Henrike Brundiek
+  - Ron Wever
+  - Frank Hollmann
+  publisher: ChemSusChem
+  date: '2019-12-30'
+  link: https://doi.org/g79bhc
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cplu.201900751
+  title: Enantioselective Sulfoxidation of Thioanisole by Cascading a Choline Oxidase
+    and a Peroxygenase in the Presence of Natural Deep Eutectic Solvents
+  authors:
+  - Yongru Li
+  - Yunjian Ma
+  - Peilin Li
+  - Xizhen Zhang
+  - Doris Ribitsch
+  - Miguel Alcalde
+  - Frank Hollmann
+  - Yonghua Wang
+  publisher: ChemPlusChem
+  date: '2020-01-01'
+  link: https://doi.org/g79bhh
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cptc.201900205
+  title: Photoenzymatic Production of Next Generation Biofuels from Natural Triglycerides
+    Combining a Hydrolase and a Photodecarboxylase
+  authors:
+  - Yunjian Ma
+  - Xizhen Zhang
+  - Wuyuan Zhang
+  - Peilin Li
+  - Yongru Li
+  - Frank Hollmann
+  - Yonghua Wang
+  publisher: ChemPhotoChem
+  date: '2019-08-29'
+  link: https://doi.org/g79bhk
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cbic.202000100
+  title: A Minimized Chemoenzymatic Cascade for Bacterial Luciferase in Bioreporter
+    Applications
+  authors:
+  - Jittima Phonbuppha
+  - Ruchanok Tinikul
+  - Thanyaporn Wongnate
+  - Pattarawan Intasian
+  - Frank Hollmann
+  - Caroline E. Paul
+  - Pimchai Chaiyen
+  publisher: ChemBioChem
+  date: '2020-04-14'
+  link: https://doi.org/g79bhp
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201901891
+  title: An Ultrasensitive Fluorescence Assay for the Detection of Halides and Enzymatic
+    Dehalogenation
+  authors:
+  - "A\u015Fk\u0131n S. Aslan\u2010\xDCzel"
+  - Andy Beier
+  - "David Kov\xE1\u0159"
+  - Clemens Cziegler
+  - Santosh K. Padhi
+  - Eva D. Schuiten
+  - "Mark D\xF6rr"
+  - "Dominique B\xF6ttcher"
+  - Frank Hollmann
+  - Florian Rudroff
+  - Marko D. Mihovilovic
+  - "Tom\xE1\u0161 Bury\u0161ka"
+  - "Ji\u0159\xED Damborsk\xFD"
+  - "Zbyn\u011Bk Prokop"
+  - Christoffel P. S. Badenhorst
+  - Uwe T. Bornscheuer
+  publisher: ChemCatChem
+  date: '2020-01-31'
+  link: https://doi.org/gtfbxk
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D0CC90323J
+  title: 'Correction: H<sub>2</sub> as a fuel for flavin- and H<sub>2</sub>O<sub>2</sub>-dependent
+    biocatalytic reactions'
+  authors:
+  - Ammar Al-Shameri
+  - "S\xE9bastien J.-P. Willot"
+  - Caroline E. Paul
+  - Frank Hollmann
+  - Lars Lauterbach
+  publisher: Chemical Communications
+  date: '2020-01-01'
+  link: https://doi.org/g79bht
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D0CC03229H
+  title: H<sub>2</sub>as a fuel for flavin- and H<sub>2</sub>O<sub>2</sub>-dependent
+    biocatalytic reactions
+  authors:
+  - Ammar Al-Shameri
+  - "S\xE9bastien J.-P. Willot"
+  - Caroline E. Paul
+  - Frank Hollmann
+  - Lars Lauterbach
+  publisher: Chemical Communications
+  date: '2020-01-01'
+  link: https://doi.org/grw7dn
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201901842
+  title: Natural Deep Eutectic Solvents as Performance Additives for Peroxygenase
+    Catalysis
+  authors:
+  - Yunjian Ma
+  - Yongru Li
+  - Shahid Ali
+  - Peilin Li
+  - Wuyuan Zhang
+  - Marine C. R. Rauch
+  - "S\xE9bastien J.\u2010P. Willot"
+  - Doris Ribitsch
+  - Young Hae Choi
+  - Miguel Alcalde
+  - Frank Hollmann
+  - Yonghua Wang
+  publisher: ChemCatChem
+  date: '2019-12-17'
+  link: https://doi.org/g79bhx
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bbapap.2019.140303
+  title: "Photochemical regeneration of flavoenzymes \u2013 An Old Yellow Enzyme case-study"
+  authors:
+  - M.C.R. Rauch
+  - M.M.E. Huijbers
+  - M. Pabst
+  - C.E. Paul
+  - "M. Pe\u0161i\u0107"
+  - I.W.C.E. Arends
+  - F. Hollmann
+  publisher: Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics
+  date: '2020-01-01'
+  link: https://doi.org/g79bhz
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D0SE00848F
+  title: Production of fatty alcohols from non-edible oils by enzymatic cascade reactions
+  authors:
+  - Yunjian Ma
+  - Xizhen Zhang
+  - Yongru Li
+  - Peilin Li
+  - Frank Hollmann
+  - Yonghua Wang
+  publisher: Sustainable Energy &amp; Fuels
+  date: '2020-01-01'
+  link: https://doi.org/g79bh2
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201902297
+  title: "Selective Oxyfunctionalisation Reactions Driven by Sulfite Oxidase\u2010\
+    Catalysed <i>In Situ</i> Generation of H<sub>2</sub>O<sub>2</sub>"
+  authors:
+  - Morten M. C. H. van Schie
+  - Alexander T. Kaczmarek
+  - Florian Tieves
+  - Patricia Gomez de Santos
+  - Caroline E. Paul
+  - Isabel W. C. E. Arends
+  - Miguel Alcalde
+  - "G\xFCnter Schwarz"
+  - Frank Hollmann
+  publisher: ChemCatChem
+  date: '2020-02-17'
+  link: https://doi.org/grbxvr
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.202000512
+  title: "Solvent\u2010Free Photobiocatalytic Hydroxylation of Cyclohexane"
+  authors:
+  - Markus Hobisch
+  - Morten Martinus Cornelis Harald van Schie
+  - Jinhyun Kim
+  - "Kasper R\xF8jkj\xE6r Andersen"
+  - Miguel Alcalde
+  - Robert Kourist
+  - Chan Beum Park
+  - Frank Hollmann
+  - Selin Kara
+  publisher: ChemCatChem
+  date: '2020-06-12'
+  link: https://doi.org/g79bh5
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/anie.201915108
+  title: "Whole\u2010Cell Photoenzymatic Cascades to Synthesize Long\u2010Chain Aliphatic\
+    \ Amines and Esters from Renewable Fatty Acids"
+  authors:
+  - "Hee\u2010Jeong Cha"
+  - "Se\u2010Yeun Hwang"
+  - "Da\u2010Som Lee"
+  - Akula Ravi Kumar
+  - "Yong\u2010Uk Kwon"
+  - "Moritz Vo\xDF"
+  - Eva Schuiten
+  - Uwe T. Bornscheuer
+  - Frank Hollmann
+  - "Deok\u2010Kun Oh"
+  - "Jin\u2010Byung Park"
+  publisher: Angewandte Chemie International Edition
+  date: '2020-02-25'
+  link: https://doi.org/gkhpw6
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acscatal.9b04454
+  title: Bias-Free In Situ H<sub>2</sub>O<sub>2</sub> Generation in a Photovoltaic-Photoelectrochemical
+    Tandem Cell for Biocatalytic Oxyfunctionalization
+  authors:
+  - Da Som Choi
+  - Hojin Lee
+  - Florian Tieves
+  - Yang Woo Lee
+  - Eun Jin Son
+  - Wuyuan Zhang
+  - Byungha Shin
+  - Frank Hollmann
+  - Chan Beum Park
+  publisher: ACS Catalysis
+  date: '2019-10-21'
+  link: https://doi.org/g79bh9
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/catal9100822
+  title: Multi-Catalytic Route for the Synthesis of (S)-Tembamide
+  authors:
+  - Laura Leemans
+  - Marc D. Walter
+  - Frank Hollmann
+  - Anett Schallmey
+  - Luuk M. van Langen
+  publisher: Catalysts
+  date: '2019-09-29'
+  link: https://doi.org/g79bjc
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201901142
+  title: "Peroxygenase\u2010Catalysed Epoxidation of Styrene Derivatives in Neat Reaction\
+    \ Media"
+  authors:
+  - Marine C. R. Rauch
+  - Florian Tieves
+  - Caroline E. Paul
+  - Isabel W. C. E. Arends
+  - Miguel Alcalde
+  - Frank Hollmann
+  publisher: ChemCatChem
+  date: '2019-08-27'
+  link: https://doi.org/g79bjj
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/catal9080639
+  title: 'Surface-Doped Graphitic Carbon Nitride Catalyzed Photooxidation of Olefins
+    and Dienes: Chemical Evidence for Electron Transfer and Singlet Oxygen Mechanisms'
+  authors:
+  - Apostolos Chatzoudis
+  - Vasileios Giannopoulos
+  - Frank Hollmann
+  - Ioulia Smonou
+  publisher: Catalysts
+  date: '2019-07-27'
+  link: https://doi.org/g79bjk
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/sciadv.aax0501
+  title: Nicotinamide adenine dinucleotide as a photocatalyst
+  authors:
+  - Jinhyun Kim
+  - Sahng Ha Lee
+  - Florian Tieves
+  - Caroline E. Paul
+  - Frank Hollmann
+  - Chan Beum Park
+  publisher: Science Advances
+  date: '2019-07-05'
+  link: https://doi.org/ggdjnf
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201900610
+  title: 'Photoenzymatic Hydroxylation of Ethylbenzene Catalyzed by Unspecific Peroxygenase:
+    Origin of Enzyme Inactivation and the Impact of Light Intensity and Temperature'
+  authors:
+  - Bastien O. Burek
+  - "Sabrina R. de\u2005Boer"
+  - Florian Tieves
+  - Wuyuan Zhang
+  - "Morten van\u2005Schie"
+  - Sebastian Bormann
+  - Miguel Alcalde
+  - Dirk Holtmann
+  - Frank Hollmann
+  - Detlef W. Bahnemann
+  - Jonathan Z. Bloh
+  publisher: ChemCatChem
+  date: '2019-06-06'
+  link: https://doi.org/g79bjn
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/catal9060522
+  title: Bienzymatic Cascade for the Synthesis of an Optically Active O-benzoyl Cyanohydrin
+  authors:
+  - Laura Leemans
+  - Luuk van Langen
+  - Frank Hollmann
+  - Anett Schallmey
+  publisher: Catalysts
+  date: '2019-06-12'
+  link: https://doi.org/g79bjq
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acscatal.8b04948
+  title: How To Break the Janus Effect of H<sub>2</sub>O<sub>2</sub> in Biocatalysis?
+    Understanding Inactivation Mechanisms To Generate more Robust Enzymes
+  authors:
+  - ZeXin Zhao
+  - Dongming Lan
+  - Xiyu Tan
+  - Frank Hollmann
+  - Uwe T. Bornscheuer
+  - Bo Yang
+  - Yonghua Wang
+  publisher: ACS Catalysis
+  date: '2019-02-28'
+  link: https://doi.org/g79bjt
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cssc.201900043
+  title: Natural Deep Eutectic Solvents as Multifunctional Media for the Valorization
+    of Agricultural Wastes
+  authors:
+  - Yunjian Ma
+  - Peilin Li
+  - Yongru Li
+  - "S\xE9bastien J.\u2010P. Willot"
+  - Wuyuan Zhang
+  - Doris Ribitsch
+  - Young Hae Choi
+  - Robert Verpoorte
+  - Tianyu Zhang
+  - Frank Hollmann
+  - Yonghua Wang
+  publisher: ChemSusChem
+  date: '2019-03-06'
+  link: https://doi.org/g79bjw
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/catal9040305
+  title: A Photo-Enzymatic Cascade to Transform Racemic Alcohols into Enantiomerically
+    Pure Amines
+  authors:
+  - "Jen\u0151 Gacs"
+  - Wuyuan Zhang
+  - Tanja Knaus
+  - Francesco G. Mutti
+  - Isabel W.C.E. Arends
+  - Frank Hollmann
+  publisher: Catalysts
+  date: '2019-03-27'
+  link: https://doi.org/g79bj2
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acssuschemeng.9b01075
+  title: "Light-Harvesting Dye\u2013Alginate Hydrogel for Solar-Driven, Sustainable\
+    \ Biocatalysis of Asymmetric Hydrogenation"
+  authors:
+  - Jaeho Yoon
+  - Sahng Ha Lee
+  - Florian Tieves
+  - Marine Rauch
+  - Frank Hollmann
+  - Chan Beum Park
+  publisher: ACS Sustainable Chemistry &amp; Engineering
+  date: '2019-03-03'
+  link: https://doi.org/g79bj3
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acscatal.8b03752
+  title: Expanding the Spectrum of Light-Driven Peroxygenase Reactions
+  authors:
+  - "S\xE9bastien J.-P. Willot"
+  - "Elena Fern\xE1ndez-Fueyo"
+  - Florian Tieves
+  - Milja Pesic
+  - Miguel Alcalde
+  - Isabel W.C.E. Arends
+  - Chan Beum Park
+  - Frank Hollmann
+  publisher: ACS Catalysis
+  date: '2018-12-18'
+  link: https://doi.org/g79bj7
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acscatal.8b04500
+  title: Straightforward Regeneration of Reduced Flavin Adenine Dinucleotide Required
+    for Enzymatic Tryptophan Halogenation
+  authors:
+  - Mohamed Ismail
+  - Lea Schroeder
+  - Marcel Frese
+  - Tilman Kottke
+  - Frank Hollmann
+  - Caroline E. Paul
+  - Norbert Sewald
+  publisher: ACS Catalysis
+  date: '2019-01-04'
+  link: https://doi.org/g79bj8
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/catal9030207
+  title: Synthetic Biomimetic Coenzymes and Alcohol Dehydrogenases for Asymmetric
+    Catalysis
+  authors:
+  - "Laia Josa-Culler\xE9"
+  - "Antti S. K. Lahdenper\xE4"
+  - Aubert Ribaucourt
+  - "Georg T. H\xF6fler"
+  - Serena Gargiulo
+  - Yuan-Yang Liu
+  - Jian-He Xu
+  - Jennifer Cassidy
+  - Francesca Paradisi
+  - Diederik J. Opperman
+  - Frank Hollmann
+  - Caroline E. Paul
+  publisher: Catalysts
+  date: '2019-02-26'
+  link: https://doi.org/g79bkc
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ejoc.201801692
+  title: "Combining Photo\u2010Organo Redox\u2010 and Enzyme Catalysis Facilitates\
+    \ Asymmetric C\u2010H Bond Functionalization"
+  authors:
+  - Wuyuan Zhang
+  - Elena Fernandez Fueyo
+  - Frank Hollmann
+  - Laura Leemans Martin
+  - Milja Pesic
+  - Rainer Wardenga
+  - "Matthias H\xF6hne"
+  - Sandy Schmidt
+  publisher: European Journal of Organic Chemistry
+  date: '2018-12-18'
+  link: https://doi.org/g79bkg
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/aocs.12220
+  title: "An Efficient Strategy for the Production of Epoxidized Oils: Natural Deep\
+    \ Eutectic Solvent\u2010Based Enzymatic Epoxidation"
+  authors:
+  - Tianyu Zhang
+  - Yunjian Ma
+  - Chin Ping Tan
+  - Frank Hollmann
+  - Jianrong Wang
+  - Bo Yang
+  - Yonghua Wang
+  publisher: Journal of the American Oil Chemists' Society
+  date: '2019-04-30'
+  link: https://doi.org/g79bkj
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tet.2019.02.013
+  title: Benchmarking of laboratory evolved unspecific peroxygenases for the synthesis
+    of human drug metabolites
+  authors:
+  - Patricia Gomez de Santos
+  - Fadia V. Cervantes
+  - Florian Tieves
+  - Francisco J. Plou
+  - Frank Hollmann
+  - Miguel Alcalde
+  publisher: Tetrahedron
+  date: '2019-03-01'
+  link: https://doi.org/g79bkn
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C8CC08042A
+  title: Biocatalytically induced surface modification of the tobacco mosaic virus
+    and the bacteriophage M13
+  authors:
+  - Valentina Vignali
+  - Barbara S. Miranda
+  - Irene Lodoso-Torrecilla
+  - Cathelijn A. J. van Nisselroy
+  - Bas-Jan Hoogenberg
+  - Sybren Dantuma
+  - Frank Hollmann
+  - Jan Willem de Vries
+  - Eliza M. Warszawik
+  - Rainer Fischer
+  - Ulrich Commandeur
+  - Patrick van Rijn
+  publisher: Chemical Communications
+  date: '2019-01-01'
+  link: https://doi.org/g79bkq
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acscatal.9b01341
+  title: Cascading g-C<sub>3</sub>N<sub>4</sub> and Peroxygenases for Selective Oxyfunctionalization
+    Reactions
+  authors:
+  - Morten M. C. H. van Schie
+  - Wuyuan Zhang
+  - Florian Tieves
+  - Da Som Choi
+  - Chan Beum Park
+  - Bastien O. Burek
+  - Jonathan Z. Bloh
+  - Isabel W. C. E. Arends
+  - Caroline E. Paul
+  - Miguel Alcalde
+  - Frank Hollmann
+  publisher: ACS Catalysis
+  date: '2019-07-09'
+  link: https://doi.org/gs2cw5
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/adsc.201801312
+  title: "Efficient Aerobic Oxidation of <i>trans</i>\u20102\u2010Hexen\u20101\u2010\
+    ol using the Aryl Alcohol Oxidase from <i>Pleurotus eryngii</i>"
+  authors:
+  - "T. P. de\u2005Almeida"
+  - "M. M. C. H. van\u2005Schie"
+  - A. Ma
+  - F. Tieves
+  - S. H. H. Younes
+  - "E. Fern\xE1ndez\u2010Fueyo"
+  - I. W. C. E. Arends
+  - A. Riul
+  - F. Hollmann
+  publisher: Advanced Synthesis &amp; Catalysis
+  date: '2019-02-07'
+  link: https://doi.org/g79bkv
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tet.2019.01.065
+  title: 'Energising the E-factor: The E+-factor'
+  authors:
+  - Florian Tieves
+  - Fabio Tonin
+  - "Elena Fern\xE1ndez-Fueyo"
+  - John M. Robbins
+  - Bettina Bommarius
+  - Andreas S. Bommarius
+  - Miguel Alcalde
+  - Frank Hollmann
+  publisher: Tetrahedron
+  date: '2019-03-01'
+  link: https://doi.org/g79bk2
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/anie.201902380
+  title: "Formate Oxidase (FOx) from <i>Aspergillus oryzae</i>: One Catalyst Enables\
+    \ Diverse H<sub>2</sub>O<sub>2</sub>\u2010Dependent Biocatalytic Oxidation Reactions"
+  authors:
+  - Florian Tieves
+  - "S\xE9bastien Jean\u2010Paul Willot"
+  - "Morten Martinus Cornelis Harald van\u2005Schie"
+  - "Marine Charl\xE8ne Ren\xE9e Rauch"
+  - Sabry Hamdy Hamed Younes
+  - Wuyuan Zhang
+  - JiaJia Dong
+  - "Patricia Gomez\u2005de\u2005Santos"
+  - John Mick Robbins
+  - Bettina Bommarius
+  - Miguel Alcalde
+  - Andreas Sebastian Bommarius
+  - Frank Hollmann
+  publisher: Angewandte Chemie International Edition
+  date: '2019-04-30'
+  link: https://doi.org/g79bk3
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cssc.201902326
+  title: H<sub>2</sub>O<sub>2</sub> Production at Low Overpotentials for Electroenzymatic
+    Halogenation Reactions
+  authors:
+  - Sebastian Bormann
+  - Morten M. C. H. van Schie
+  - Tiago Pedroso De Almeida
+  - Wuyuan Zhang
+  - "Markus St\xF6ckl"
+  - Roland Ulber
+  - Frank Hollmann
+  - Dirk Holtmann
+  publisher: ChemSusChem
+  date: '2019-10-17'
+  link: https://doi.org/g79bk6
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C9OB01884K
+  title: Haloperoxidases as catalysts in organic synthesis
+  authors:
+  - "Georg T. H\xF6fler"
+  - Andrada But
+  - Frank Hollmann
+  publisher: Organic &amp; Biomolecular Chemistry
+  date: '2019-01-01'
+  link: https://doi.org/g79bk9
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/jacs.8b12282
+  title: Hydrocarbon Synthesis via Photoenzymatic Decarboxylation of Carboxylic Acids
+  authors:
+  - Wuyuan Zhang
+  - Ming Ma
+  - Mieke M. E. Huijbers
+  - Georgy A. Filonenko
+  - Evgeny A. Pidko
+  - Morten van Schie
+  - Sabrina de Boer
+  - Bastien O. Burek
+  - Jonathan Z. Bloh
+  - Willem J. H. van Berkel
+  - Wilson A. Smith
+  - Frank Hollmann
+  publisher: Journal of the American Chemical Society
+  date: '2019-01-23'
+  link: https://doi.org/g79bmb
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C9GC00633H
+  title: Hydrogen peroxide driven biocatalysis
+  authors:
+  - B. O. Burek
+  - S. Bormann
+  - F. Hollmann
+  - J. Z. Bloh
+  - D. Holtmann
+  publisher: Green Chemistry
+  date: '2019-01-01'
+  link: https://doi.org/g79bmf
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.aanat.2018.08.004
+  title: "Lymphatic vessels of the eye \u2013 old questions \u2013 new insights"
+  authors:
+  - "Johannes Gr\xFCntzig"
+  - Frank Hollmann
+  publisher: Annals of Anatomy - Anatomischer Anzeiger
+  date: '2019-01-01'
+  link: https://doi.org/gf3d5j
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1515/znc-2018-0137
+  title: Multienzymatic in situ hydrogen peroxide generation cascade for peroxygenase-catalysed
+    oxyfunctionalisation reactions
+  authors:
+  - Milja Pesic
+  - "S\xE9bastien Jean-Paul Willot"
+  - "Elena Fern\xE1ndez-Fueyo"
+  - Florian Tieves
+  - Miguel Alcalde
+  - Frank Hollmann
+  publisher: "Zeitschrift f\xFCr Naturforschung C"
+  date: '2018-10-31'
+  link: https://doi.org/g79bmj
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/catal9070567
+  title: P450BM3-Catalyzed Oxidations Employing Dual Functional Small Molecules
+  authors:
+  - "S\xE9bastien J.-P. Willot"
+  - Florian Tieves
+  - Marco Girhard
+  - Vlada B. Urlacher
+  - Frank Hollmann
+  - Gonzalo de Gonzalo
+  publisher: Catalysts
+  date: '2019-06-26'
+  link: https://doi.org/g79bmn
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C8CC08149B
+  title: Photoenzymatic epoxidation of styrenes
+  authors:
+  - Morten M. C. H. van Schie
+  - Caroline E. Paul
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  publisher: Chemical Communications
+  date: '2019-01-01'
+  link: https://doi.org/g79bms
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C9CY01539F
+  title: Synthesis of enantiomerically pure alcohols and amines <i>via</i> biocatalytic
+    deracemisation methods
+  authors:
+  - Musa M. Musa
+  - Frank Hollmann
+  - Francesco G. Mutti
+  publisher: Catalysis Science &amp; Technology
+  date: '2019-01-01'
+  link: https://doi.org/gtzk8c
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C9RA05828A
+  title: "\u2018Clean\u2019 hydrolase reactions using commercial washing powder"
+  authors:
+  - Jie Zhang
+  - Fabio Tonin
+  - Wuyuan Zhang
+  - Peter-Leon Hagedoorn
+  - "Lloyd Mall\xE9e"
+  - Frank Hollmann
+  publisher: RSC Advances
+  date: '2019-01-01'
+  link: https://doi.org/g79bmx
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/asia.201801180
+  title: Biocatalytic synthesis of lactones and lactams
+  authors:
+  - Frank Hollmann
+  - Selin Kara
+  - Diederik J. Opperman
+  - Yonghua Wang
+  publisher: "Chemistry \u2013 An Asian Journal"
+  date: '2018-10-18'
+  link: https://doi.org/gt5cf3
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cbic.201800530
+  title: A Photoenzymatic NADH Regeneration System
+  authors:
+  - "Georg T. H\xF6fler"
+  - "Elena Fern\xE1ndez\u2010Fueyo"
+  - Milja Pesic
+  - Sabry H. Younes
+  - "Eun\u2010Gyu Choi"
+  - Yong H. Kim
+  - Vlada B. Urlacher
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  publisher: ChemBioChem
+  date: '2018-10-23'
+  link: https://doi.org/g79bm3
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cbic.201800654
+  title: 'Cover Feature: A Photoenzymatic NADH Regeneration System (ChemBioChem 22/2018)'
+  authors:
+  - "Georg T. H\xF6fler"
+  - "Elena Fern\xE1ndez\u2010Fueyo"
+  - Milja Pesic
+  - Sabry H. Younes
+  - "Eun\u2010Gyu Choi"
+  - Yong H. Kim
+  - Vlada B. Urlacher
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  publisher: ChemBioChem
+  date: '2018-10-31'
+  link: https://doi.org/g79bm6
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ange.201807119
+  title: "Lichtgetriebene enzymatische Decarboxylierung von Fetts\xE4uren"
+  authors:
+  - Mieke M. E. Huijbers
+  - Wuyuan Zhang
+  - Fabio Tonin
+  - Frank Hollmann
+  publisher: Angewandte Chemie
+  date: '2018-09-12'
+  link: https://doi.org/g79bm8
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/anie.201807119
+  title: "Light\u2010Driven Enzymatic Decarboxylation of Fatty Acids"
+  authors:
+  - Mieke M. E. Huijbers
+  - Wuyuan Zhang
+  - Fabio Tonin
+  - Frank Hollmann
+  publisher: Angewandte Chemie International Edition
+  date: '2018-09-12'
+  link: https://doi.org/g79bnb
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acscatal.8b02355
+  title: Horse Liver Alcohol Dehydrogenase-Catalyzed Oxidative Lactamization of Amino
+    Alcohols
+  authors:
+  - Lei Huang
+  - Giovanni Vallian Sayoga
+  - Frank Hollmann
+  - Selin Kara
+  publisher: ACS Catalysis
+  date: '2018-08-07'
+  link: https://doi.org/gd99vc
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/anie.201800343
+  title: 'Biocatalytic Oxidation Reactions: A Chemist''s Perspective'
+  authors:
+  - JiaJia Dong
+  - "Elena Fern\xE1ndez\u2010Fueyo"
+  - Frank Hollmann
+  - Caroline E. Paul
+  - Milja Pesic
+  - Sandy Schmidt
+  - Yonghua Wang
+  - Sabry Younes
+  - Wuyuan Zhang
+  publisher: Angewandte Chemie International Edition
+  date: '2018-07-03'
+  link: https://doi.org/gds29m
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ange.201800343
+  title: "Biokatalytische Oxidationsreaktionen \u2013 aus der Sicht eines Chemikers"
+  authors:
+  - JiaJia Dong
+  - "Elena Fern\xE1ndez\u2010Fueyo"
+  - Frank Hollmann
+  - Caroline E. Paul
+  - Milja Pesic
+  - Sandy Schmidt
+  - Yonghua Wang
+  - Sabry Younes
+  - Wuyuan Zhang
+  publisher: Angewandte Chemie
+  date: '2018-07-03'
+  link: https://doi.org/g79bnf
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mcat.2018.04.015
+  title: Deazaflavins as photocatalysts for the direct reductive regeneration of flavoenzymes
+  authors:
+  - M.M.C.H. van Schie
+  - S.H.H. Younes
+  - M.C.R. Rauch
+  - M. Pesic
+  - C.E. Paul
+  - I.W.C.E. Arends
+  - F. Hollmann
+  publisher: Molecular Catalysis
+  date: '2018-06-01'
+  link: https://doi.org/g79bnh
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3762/bjoc.14.58
+  title: Biocatalytic synthesis of the Green Note <i>trans</i>-2-hexenal in a continuous-flow
+    microreactor
+  authors:
+  - Morten M C H van Schie
+  - Tiago Pedroso de Almeida
+  - Gabriele Laudadio
+  - Florian Tieves
+  - "Elena Fern\xE1ndez-Fueyo"
+  - "Timothy No\xEBl"
+  - Isabel W C E Arends
+  - Frank Hollmann
+  publisher: Beilstein Journal of Organic Chemistry
+  date: '2018-03-26'
+  link: https://doi.org/g79bnj
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/anie.201804409
+  title: "Biocatalytic C=C Bond Reduction through Carbon Nanodot\u2010Sensitized Regeneration\
+    \ of NADH Analogues"
+  authors:
+  - Jinhyun Kim
+  - Sahng Ha Lee
+  - Florian Tieves
+  - Da Som Choi
+  - Frank Hollmann
+  - Caroline E. Paul
+  - Chan Beum Park
+  publisher: Angewandte Chemie International Edition
+  date: '2018-08-29'
+  link: https://doi.org/gd4zkw
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/adfm.201705232
+  title: "Carbon Nanotube\u2013Graphitic Carbon Nitride Hybrid Films for Flavoenzyme\u2010\
+    Catalyzed Photoelectrochemical Cells"
+  authors:
+  - Eun Jin Son
+  - Sahng Ha Lee
+  - Su Keun Kuk
+  - Milja Pesic
+  - Da Som Choi
+  - Jong Wan Ko
+  - Kayoung Kim
+  - Frank Hollmann
+  - Chan Beum Park
+  publisher: Advanced Functional Materials
+  date: '2017-12-07'
+  link: https://doi.org/g79bnn
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C8CC02219D
+  title: "Nonconventional regeneration of redox enzymes \u2013 a practical approach\
+    \ for organic synthesis?"
+  authors:
+  - Wuyuan Zhang
+  - Frank Hollmann
+  publisher: Chemical Communications
+  date: '2018-01-01'
+  link: https://doi.org/g5ck7w
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jfbc.12574
+  title: "Production and immobilization of lipase PCL and its application in synthesis\
+    \ of \u03B1-linolenic acid-rich diacylglycerol"
+  authors:
+  - Nan Liu
+  - Daoming Li
+  - Weifei Wang
+  - Frank Hollmann
+  - Long Xu
+  - Yunjian Ma
+  - Bo Yang
+  - Weidong Bai
+  - Xiaotao Sun
+  - Yonghua Wang
+  publisher: Journal of Food Biochemistry
+  date: '2018-07-23'
+  link: https://doi.org/g79bns
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acscatal.8b01004
+  title: "Selective Synthesis of the Human Drug Metabolite 5\u2032-Hydroxypropranolol\
+    \ by an Evolved Self-Sufficient Peroxygenase"
+  authors:
+  - Patricia Gomez de Santos
+  - "Marina Ca\xF1ellas"
+  - Florian Tieves
+  - Sabry H. H. Younes
+  - Patricia Molina-Espeja
+  - Martin Hofrichter
+  - Frank Hollmann
+  - Victor Guallar
+  - Miguel Alcalde
+  publisher: ACS Catalysis
+  date: '2018-04-19'
+  link: https://doi.org/gdqm8k
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41929-017-0001-5
+  title: Selective aerobic oxidation reactions using a combination of photocatalytic
+    water oxidation and enzymatic oxyfunctionalizations
+  authors:
+  - Wuyuan Zhang
+  - "Elena Fern\xE1ndez-Fueyo"
+  - Yan Ni
+  - Morten van Schie
+  - "Jen\xF6 Gacs"
+  - Rokus Renirie
+  - Ron Wever
+  - Francesco G. Mutti
+  - "D\xF6rte Rother"
+  - Miguel Alcalde
+  - Frank Hollmann
+  publisher: Nature Catalysis
+  date: '2017-11-20'
+  link: https://doi.org/gdbcbx
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/nano8100853
+  title: Stereoselective Double Reduction of 3-Methyl-2-cyclohexenone, by Use of Palladium
+    and Platinum Nanoparticles, in Tandem with Alcohol Dehydrogenase
+  authors:
+  - Francesca Coccia
+  - Lucia Tonucci
+  - Piero Del Boccio
+  - Stefano Caporali
+  - Frank Hollmann
+  - "Nicola D\u2019Alessandro"
+  publisher: Nanomaterials
+  date: '2018-10-19'
+  link: https://doi.org/g79bnz
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/anie.201708668
+  title: "Selective Activation of C\u2212H Bonds in a Cascade Process Combining Photochemistry\
+    \ and Biocatalysis"
+  authors:
+  - Wuyuan Zhang
+  - Bastien O. Burek
+  - "Elena Fern\xE1ndez\u2010Fueyo"
+  - Miguel Alcalde
+  - Jonathan Z. Bloh
+  - Frank Hollmann
+  publisher: Angewandte Chemie International Edition
+  date: '2017-11-03'
+  link: https://doi.org/g79bn3
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ange.201708668
+  title: "Selektive C\u2010H\u2010Bindungsaktivierung durch eine Kaskade aus Photochemie\
+    \ und Biokatalyse"
+  authors:
+  - Wuyuan Zhang
+  - Bastien O. Burek
+  - "Elena Fern\xE1ndez\u2010Fueyo"
+  - Miguel Alcalde
+  - Jonathan Z. Bloh
+  - Frank Hollmann
+  publisher: Angewandte Chemie
+  date: '2017-11-03'
+  link: https://doi.org/g79bn5
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201700779
+  title: "Selective Photooxidation Reactions using Water\u2010Soluble Anthraquinone\
+    \ Photocatalysts"
+  authors:
+  - Wuyuan Zhang
+  - "Jen\u0151 Gacs"
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  publisher: ChemCatChem
+  date: '2017-09-07'
+  link: https://doi.org/g79bn9
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201700165
+  title: Alcohol Dehydrogenases Catalyze the Reduction of Thioesters
+  authors:
+  - Sabry H. H. Younes
+  - Yan Ni
+  - Sandy Schmidt
+  - Wolfgang Kroutil
+  - Frank Hollmann
+  publisher: ChemCatChem
+  date: '2017-04-03'
+  link: https://doi.org/g79bpc
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.enzmictec.2017.02.003
+  title: Changing the electron donor improves azoreductase dye degrading activity
+    at neutral pH
+  authors:
+  - Jingxian Qi
+  - Caroline E. Paul
+  - Frank Hollmann
+  - Dirk Tischler
+  publisher: Enzyme and Microbial Technology
+  date: '2017-05-01'
+  link: https://doi.org/g79bpf
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/slct.201700724
+  title: Characterization of the Old Yellow Enzyme Homolog from <i>Bacillus subtilis</i>
+    (YqjM)
+  authors:
+  - Milja Pesic
+  - "Elena Fern\xE1ndez\u2010Fueyo"
+  - Frank Hollmann
+  publisher: ChemistrySelect
+  date: '2017-05-02'
+  link: https://doi.org/g79bpj
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c7ra00805h
+  title: Chemoenzymatic epoxidation of alkenes with Candida antarctica lipase B and
+    hydrogen peroxide in deep eutectic solvents
+  authors:
+  - Pengfei Zhou
+  - Xuping Wang
+  - Bo Yang
+  - Frank Hollmann
+  - Yonghua Wang
+  publisher: RSC Advances
+  date: '2017-01-01'
+  link: https://doi.org/g79bpm
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/anie.201702461
+  title: "Cofactor\u2010Free, Direct Photoactivation of Enoate Reductases for the\
+    \ Asymmetric Reduction of C=C Bonds"
+  authors:
+  - Sahng Ha Lee
+  - Da Som Choi
+  - Milja Pesic
+  - Yang Woo Lee
+  - Caroline E. Paul
+  - Frank Hollmann
+  - Chan Beum Park
+  publisher: Angewandte Chemie International Edition
+  date: '2017-06-23'
+  link: https://doi.org/gbj3mm
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201601483
+  title: Deep Eutectic Solvents Enable More Robust Chemoenzymatic Epoxidation Reactions
+  authors:
+  - Pengfei Zhou
+  - Xuping Wang
+  - Chaoxi Zeng
+  - Weifei Wang
+  - Bo Yang
+  - Frank Hollmann
+  - Yonghua Wang
+  publisher: ChemCatChem
+  date: '2017-02-14'
+  link: https://doi.org/g52nnk
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C7RA06755K
+  title: Deep eutectic solvents as performance additives in biphasic reactions
+  authors:
+  - Dongming Lan
+  - Xuping Wang
+  - Pengfei Zhou
+  - Frank Hollmann
+  - Yonghua Wang
+  publisher: RSC Advances
+  date: '2017-01-01'
+  link: https://doi.org/g79bpt
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/srep44599
+  title: Engineering a lipase B from Candida antactica with efficient perhydrolysis
+    performance by eliminating its hydrolase activity
+  authors:
+  - Xu-Ping Wang
+  - Peng-Fei Zhou
+  - Zhi-Gang Li
+  - Bo Yang
+  - Frank Hollmann
+  - Yong-Hua Wang
+  publisher: Scientific Reports
+  date: '2017-03-20'
+  link: https://doi.org/g79bpx
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C7CC03368K
+  title: Halofunctionalization of alkenes by vanadium chloroperoxidase from Curvularia
+    inaequalis
+  authors:
+  - Jia Jia Dong
+  - "Elena Fern\xE1ndez-Fueyo"
+  - Jingbo Li
+  - Zheng Guo
+  - Rokus Renirie
+  - Ron Wever
+  - Frank Hollmann
+  publisher: Chemical Communications
+  date: '2017-01-01'
+  link: https://doi.org/g79bp2
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/adsc.201700401
+  title: "Nicotinamide Adenine Dinucleotide\u2010Dependent Redox\u2010Neutral Convergent\
+    \ Cascade for Lactonizations with Type II Flavin\u2010Containing Monooxygenase"
+  authors:
+  - Lei Huang
+  - Elvira Romero
+  - Anna K. Ressmann
+  - Florian Rudroff
+  - Frank Hollmann
+  - Marco W. Fraaije
+  - Selin Kara
+  publisher: Advanced Synthesis &amp; Catalysis
+  date: '2017-05-22'
+  link: https://doi.org/gbj433
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biotechadv.2017.06.003
+  title: Oxidoreductases on their way to industrial biotransformations
+  authors:
+  - "Angel T. Mart\xEDnez"
+  - "Francisco J. Ruiz-Due\xF1as"
+  - Susana Camarero
+  - Ana Serrano
+  - Dolores Linde
+  - Henrik Lund
+  - Jesper Vind
+  - Morten Tovborg
+  - Owik M. Herold-Majumdar
+  - Martin Hofrichter
+  - Christiane Liers
+  - "Ren\xE9 Ullrich"
+  - Katrin Scheibner
+  - Giovanni Sannia
+  - Alessandra Piscitelli
+  - Cinzia Pezzella
+  - Mehmet E. Sener
+  - "Sibel K\u0131l\u0131\xE7"
+  - Willem J.H. van Berkel
+  - Victor Guallar
+  - "Maria F\xE1tima Lucas"
+  - Ralf Zuhse
+  - Roland Ludwig
+  - Frank Hollmann
+  - "Elena Fern\xE1ndez-Fueyo"
+  - Eric Record
+  - Craig B. Faulds
+  - Marta Tortajada
+  - Ib Winckelmann
+  - Jo-Anne Rasmussen
+  - Mirjana Gelo-Pujic
+  - "Ana Guti\xE9rrez"
+  - "Jos\xE9 C. del R\xEDo"
+  - Jorge Rencoret
+  - Miguel Alcalde
+  publisher: Biotechnology Advances
+  date: '2017-11-01'
+  link: https://doi.org/cbng
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cbpa.2016.10.007
+  title: Peroxygenases en route to becoming dream catalysts. What are the opportunities
+    and challenges?
+  authors:
+  - Yonghua Wang
+  - Dongming Lan
+  - Rabia Durrani
+  - Frank Hollmann
+  publisher: Current Opinion in Chemical Biology
+  date: '2017-04-01'
+  link: https://doi.org/gfsxn6
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c6gc02008a
+  title: Photobiocatalytic alcohol oxidation using LED light sources
+  authors:
+  - M. Rauch
+  - S. Schmidt
+  - I. W. C. E. Arends
+  - K. Oppelt
+  - S. Kara
+  - F. Hollmann
+  publisher: Green Chemistry
+  date: '2017-01-01'
+  link: https://doi.org/g79bp9
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acscatal.6b03453
+  title: Photoelectroenzymatic Oxyfunctionalization on Flavin-Hybridized Carbon Nanotube
+    Electrode Platform
+  authors:
+  - Da Som Choi
+  - Yan Ni
+  - "Elena Fern\xE1ndez-Fueyo"
+  - Minah Lee
+  - Frank Hollmann
+  - Chan Beum Park
+  publisher: ACS Catalysis
+  date: '2017-01-30'
+  link: https://doi.org/g79bqb
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/elsc.201600158
+  title: Towards electroenzymatic processes involving old yellow enzymes and mediated
+    cofactor regeneration
+  authors:
+  - Andreas Tosstorff
+  - Cora Kroner
+  - Diederik J. Opperman
+  - Frank Hollmann
+  - Dirk Holtmann
+  publisher: Engineering in Life Sciences
+  date: '2016-10-12'
+  link: https://doi.org/f3r7pn
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c7gc00020k
+  title: "Towards environmentally acceptable synthesis of chiral \u03B1-hydroxy ketones\
+    \ via oxidase-lyase cascades"
+  authors:
+  - Sandy Schmidt
+  - Tiago Pedroso de Almeida
+  - "D\xF6rte Rother"
+  - Frank Hollmann
+  publisher: Green Chemistry
+  date: '2017-01-01'
+  link: https://doi.org/g79bqj
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C7GC00539C
+  title: Visible-light-driven photooxidation of alcohols using surface-doped graphitic
+    carbon nitride
+  authors:
+  - Wuyuan Zhang
+  - Anna Bariotaki
+  - Ioulia Smonou
+  - Frank Hollmann
+  publisher: Green Chemistry
+  date: '2017-01-01'
+  link: https://doi.org/g79bqm
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcatb.2016.09.013
+  title: Towards preparative peroxygenase-catalyzed oxyfunctionalization reactions
+    in organic media
+  authors:
+  - "Elena Fern\xE1ndez-Fueyo"
+  - Yan Ni
+  - Alvaro Gomez Baraibar
+  - Miguel Alcalde
+  - Lukas M. van Langen
+  - Frank Hollmann
+  publisher: 'Journal of Molecular Catalysis B: Enzymatic'
+  date: '2016-12-01'
+  link: https://doi.org/f9jppd
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ange.201601200
+  title: "Rekombinante Cyanobakterien f\xFCr die asymmetrische Reduktion von C=C\u2010\
+    Bindungen mithilfe biokatalytischer Wasseroxidation"
+  authors:
+  - "Katharina K\xF6ninger"
+  - "\xC1lvaro G\xF3mez\u2005Baraibar"
+  - "Carolin M\xFCgge"
+  - Caroline E. Paul
+  - Frank Hollmann
+  - Marc M. Nowaczyk
+  - Robert Kourist
+  publisher: Angewandte Chemie
+  date: '2016-03-29'
+  link: https://doi.org/f3mf8n
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acscatal.6b01636
+  title: A Biocatalytic Aza-Achmatowicz Reaction
+  authors:
+  - "Elena Fern\xE1ndez-Fueyo"
+  - Sabry H. H. Younes
+  - Stefan van Rootselaar
+  - "Ren\xE9 W. M. Aben"
+  - Rokus Renirie
+  - Ron Wever
+  - Dirk Holtmann
+  - Floris P. J. T. Rutjes
+  - Frank Hollmann
+  publisher: ACS Catalysis
+  date: '2016-08-08'
+  link: https://doi.org/g79bqs
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00253-016-7500-1
+  title: A survey of synthetic nicotinamide cofactors in enzymatic processes
+  authors:
+  - Caroline E. Paul
+  - Frank Hollmann
+  publisher: Applied Microbiology and Biotechnology
+  date: '2016-04-19'
+  link: https://doi.org/g79bqx
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/10_2015_5010
+  title: 'Artificial Photosynthesis: Hybrid Systems'
+  authors:
+  - Yan Ni
+  - Frank Hollmann
+  publisher: Advances in Biochemical Engineering/Biotechnology
+  date: '2016-01-01'
+  link: https://doi.org/g79bq2
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/jacs.5b12252
+  title: 'Better than Nature: Nicotinamide Biomimetics That Outperform Natural Coenzymes'
+  authors:
+  - Tanja Knaus
+  - Caroline E. Paul
+  - Colin W. Levy
+  - Simon de Vries
+  - Francesco G. Mutti
+  - Frank Hollmann
+  - Nigel S. Scrutton
+  publisher: Journal of the American Chemical Society
+  date: '2016-01-13'
+  link: https://doi.org/f8qbss
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/jacs.6b05625
+  title: "Donor\u2013Acceptor Distance Sampling Enhances the Performance of \u201C\
+    Better than Nature\u201D Nicotinamide Coenzyme Biomimetics"
+  authors:
+  - Alexander Geddes
+  - Caroline E. Paul
+  - Sam Hay
+  - Frank Hollmann
+  - Nigel S. Scrutton
+  publisher: Journal of the American Chemical Society
+  date: '2016-08-24'
+  link: https://doi.org/f83td6
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acscatal.6b00258
+  title: Efficient <i>In Situ</i> Regeneration of NADH Mimics by an Artificial Metalloenzyme
+  authors:
+  - Yasunori Okamoto
+  - "Valentin K\xF6hler"
+  - Caroline E. Paul
+  - Frank Hollmann
+  - Thomas R. Ward
+  publisher: ACS Catalysis
+  date: '2016-05-04'
+  link: https://doi.org/f8q33p
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tet.2015.11.054
+  title: "Enhancing the productivity of the bi-enzymatic convergent cascade for \u025B\
+    -caprolactone synthesis through design of experiments and a biphasic system"
+  authors:
+  - Amin Bornadel
+  - Rajni Hatti-Kaul
+  - Frank Hollmann
+  - Selin Kara
+  publisher: Tetrahedron
+  date: '2016-11-01'
+  link: https://doi.org/f896pb
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c6gc01666a
+  title: Fueling biomass-degrading oxidative enzymes by light-driven water oxidation
+  authors:
+  - Bastien Bissaro
+  - Zarah Forsberg
+  - Yan Ni
+  - Frank Hollmann
+  - Gustav Vaaje-Kolstad
+  - Vincent G. H. Eijsink
+  publisher: Green Chemistry
+  date: '2016-01-01'
+  link: https://doi.org/g79brd
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3791/53439
+  title: Light-driven Enzymatic Decarboxylation
+  authors:
+  - "Katharina K\xF6ninger"
+  - Marius Grote
+  - Ioannis Zachos
+  - Frank Hollmann
+  - Robert Kourist
+  publisher: Journal of Visualized Experiments
+  date: '2016-05-22'
+  link: https://doi.org/g79brj
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/anie.201507881
+  title: "Peroxygenase\u2010Catalyzed Oxyfunctionalization Reactions Promoted by the\
+    \ Complete Oxidation of Methanol"
+  authors:
+  - Yan Ni
+  - "Elena Fern\xE1ndez\u2010Fueyo"
+  - Alvaro Gomez Baraibar
+  - "Ren\xE9 Ullrich"
+  - Martin Hofrichter
+  - Hideshi Yanase
+  - Miguel Alcalde
+  - "Willem J. H. van\u2005Berkel"
+  - Frank Hollmann
+  publisher: Angewandte Chemie International Edition
+  date: '2015-11-26'
+  link: https://doi.org/f3j5xz
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/anie.201601200
+  title: Recombinant Cyanobacteria for the Asymmetric Reduction of C=C Bonds Fueled
+    by the Biocatalytic Oxidation of Water
+  authors:
+  - "Katharina K\xF6ninger"
+  - "\xC1lvaro G\xF3mez\u2005Baraibar"
+  - "Carolin M\xFCgge"
+  - Caroline E. Paul
+  - Frank Hollmann
+  - Marc M. Nowaczyk
+  - Robert Kourist
+  publisher: Angewandte Chemie International Edition
+  date: '2016-03-29'
+  link: https://doi.org/f3mfqb
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcatb.2016.11.009
+  title: Special issue OxiZymes 2016
+  authors:
+  - Willem van Berkel
+  - Marco Fraaije
+  - Frank Hollmann
+  publisher: 'Journal of Molecular Catalysis B: Enzymatic'
+  date: '2016-12-01'
+  link: https://doi.org/g79brq
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c6cy01140c
+  title: 'Substrate and cofactor binding to nitrile reductase: a mass spectrometry
+    based study'
+  authors:
+  - Lorina Gjonaj
+  - Martijn Pinkse
+  - "Elena Fern\xE1ndez-Fueyo"
+  - Frank Hollmann
+  - Ulf Hanefeld
+  publisher: Catalysis Science &amp; Technology
+  date: '2016-01-01'
+  link: https://doi.org/g79brw
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cbic.201600176
+  title: 'The Oxygen Dilemma: A Severe Challenge for the Application of Monooxygenases?'
+  authors:
+  - Dirk Holtmann
+  - Frank Hollmann
+  publisher: ChemBioChem
+  date: '2016-06-30'
+  link: https://doi.org/f3qjrq
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201500511
+  title: "A Bi\u2010enzymatic Convergent Cascade for \u03B5\u2010Caprolactone Synthesis\
+    \ Employing 1,6\u2010Hexanediol as a \u2018Double\u2010Smart Cosubstrate\u2019"
+  authors:
+  - Amin Bornadel
+  - "Rajni Hatti\u2010Kaul"
+  - Frank Hollmann
+  - Selin Kara
+  publisher: ChemCatChem
+  date: '2015-07-14'
+  link: https://doi.org/f3cq37
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10562-014-1450-y
+  title: Biocatalysis
+  authors:
+  - Guzman Torrelo
+  - Ulf Hanefeld
+  - Frank Hollmann
+  publisher: Catalysis Letters
+  date: '2014-12-05'
+  link: https://doi.org/gmgmhs
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201500862
+  title: Chemoenzymatic Halogenation of Phenols by using the Haloperoxidase from <i>Curvularia
+    inaequalis</i>
+  authors:
+  - "Elena Fern\xE1ndez\u2010Fueyo"
+  - "Marco van\u2005Wingerden"
+  - Rokus Renirie
+  - Ron Wever
+  - Yan Ni
+  - Dirk Holtmann
+  - Frank Hollmann
+  publisher: ChemCatChem
+  date: '2015-10-16'
+  link: https://doi.org/f3jnx3
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/adsc.201500173
+  title: "Complete Enzymatic Oxidation of Methanol to Carbon Dioxide: Towards More\
+    \ Eco\u2010Efficient Regeneration Systems for Reduced Nicotinamide Cofactors"
+  authors:
+  - Selin Kara
+  - Joerg H. Schrittwieser
+  - Serena Gargiulo
+  - Yan Ni
+  - Hideshi Yanase
+  - Diederik J. Opperman
+  - "Willem J. H. van\u2005Berkel"
+  - Frank Hollmann
+  publisher: Advanced Synthesis &amp; Catalysis
+  date: '2015-04-29'
+  link: https://doi.org/f27swz
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcatb.2015.06.011
+  title: Engineering an enzymatic regeneration system for NAD(P)H oxidation
+  authors:
+  - Ngoc Hung Pham
+  - Frank Hollmann
+  - Daniel Kracher
+  - Marita Preims
+  - Dietmar Haltrich
+  - Roland Ludwig
+  publisher: 'Journal of Molecular Catalysis B: Enzymatic'
+  date: '2015-10-01'
+  link: https://doi.org/f3sxbv
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acscatal.5b00041
+  title: Nonenzymatic Regeneration of Styrene Monooxygenase for Catalysis
+  authors:
+  - Caroline E. Paul
+  - Dirk Tischler
+  - Anika Riedel
+  - Thomas Heine
+  - Nobuya Itoh
+  - Frank Hollmann
+  publisher: ACS Catalysis
+  date: '2015-04-13'
+  link: https://doi.org/f7dcdv
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fmicb.2015.01257
+  title: 'On the (Un)greenness of Biocatalysis: Some Challenging Figures and Some
+    Promising Options'
+  authors:
+  - "Pablo Dom\xEDnguez de Mar\xEDa"
+  - Frank Hollmann
+  publisher: Frontiers in Microbiology
+  date: '2015-11-12'
+  link: https://doi.org/gftx6z
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201402835
+  title: "One\u2010pot Conversion of Cycloalkanes to Lactones"
+  authors:
+  - "Aliz\xE9 Pennec"
+  - Frank Hollmann
+  - Martha S. Smit
+  - Diederik J. Opperman
+  publisher: ChemCatChem
+  date: '2014-12-04'
+  link: https://doi.org/f2wnt5
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c4cc07276f
+  title: Photobiocatalytic decarboxylation for olefin synthesis
+  authors:
+  - Ioannis Zachos
+  - "Sarah Katharina Ga\xDFmeyer"
+  - Daniel Bauer
+  - Volker Sieber
+  - Frank Hollmann
+  - Robert Kourist
+  publisher: Chemical Communications
+  date: '2015-01-01'
+  link: https://doi.org/g79bsj
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/op500374x
+  title: "Scaling-Up of \u201CSmart Cosubstrate\u201D 1,4-Butanediol Promoted Asymmetric\
+    \ Reduction of Ethyl-4,4,4-trifluoroacetoacetate in Organic Media"
+  authors:
+  - Ralf Zuhse
+  - Christian Leggewie
+  - Frank Hollmann
+  - Selin Kara
+  publisher: Organic Process Research &amp; Development
+  date: '2015-02-05'
+  link: https://doi.org/g79bsn
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c4cy01477d
+  title: 'Specific oxyfunctionalisations catalysed by peroxygenases: opportunities,
+    challenges and solutions'
+  authors:
+  - Sebastian Bormann
+  - Alvaro Gomez Baraibar
+  - Yan Ni
+  - Dirk Holtmann
+  - Frank Hollmann
+  publisher: Catalysis Science &amp; Technology
+  date: '2015-01-01'
+  link: https://doi.org/g79bsq
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12268-015-0587-6
+  title: Synthetische Nikotinamide in der Biokatalyse
+  authors:
+  - Frank Hollmann
+  - Caroline E. Paul
+  publisher: BIOspektrum
+  date: '2015-06-01'
+  link: https://doi.org/g79bsv
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ejic.201500086
+  title: "Thymol Bromination \u2013 A Comparison between Enzymatic and Chemical Catalysis"
+  authors:
+  - Federica Sabuzi
+  - Ekaterina Churakova
+  - Pierluca Galloni
+  - Ron Wever
+  - Frank Hollmann
+  - Barbara Floris
+  - Valeria Conte
+  publisher: European Journal of Inorganic Chemistry
+  date: '2015-03-20'
+  link: https://doi.org/f26qm8
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcatb.2013.11.015
+  title: Alcohol dehydrogenase stabilization by additives under industrially relevant
+    reaction conditions
+  authors:
+  - Dominik Spickermann
+  - Selin Kara
+  - Ivana Barackov
+  - Frank Hollmann
+  - Ulrich Schwaneberg
+  - Pascal Duenkelmann
+  - Christian Leggewie
+  publisher: 'Journal of Molecular Catalysis B: Enzymatic'
+  date: '2014-05-01'
+  link: https://doi.org/f54bk7
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201300841
+  title: "Bioreductions Catalyzed by an Alcohol Dehydrogenase in Non\u2010aqueous\
+    \ Media"
+  authors:
+  - Selin Kara
+  - Dominik Spickermann
+  - Andrea Weckbecker
+  - Christian Leggewie
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  publisher: ChemCatChem
+  date: '2014-02-12'
+  link: https://doi.org/f2p2d9
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcatb.2014.01.008
+  title: Editorial on Biocatalysis
+  authors:
+  - Y. Asano
+  - F. Hollmann
+  - J.D. Stewart
+  publisher: 'Journal of Molecular Catalysis B: Enzymatic'
+  date: '2014-07-01'
+  link: https://doi.org/g79bs5
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcatb.2013.07.006
+  title: Electrochemical regeneration of oxidised nicotinamide cofactors in a scalable
+    reactor
+  authors:
+  - Svenja Kochius
+  - Jun Bum Park
+  - Claudia Ley
+  - "Paul K\xF6nst"
+  - Frank Hollmann
+  - Jens Schrader
+  - Dirk Holtmann
+  publisher: 'Journal of Molecular Catalysis B: Enzymatic'
+  date: '2014-05-01'
+  link: https://doi.org/f54b2b
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcatb.2013.08.016
+  title: "Enantioselective enzymatic synthesis of the \u03B1-hydroxy ketone (R)-acetoin\
+    \ from meso-2,3-butanediol"
+  authors:
+  - Svenja Kochius
+  - Melanie Paetzold
+  - Alexander Scholz
+  - Hedda Merkens
+  - Andreas Vogel
+  - Marion Ansorge-Schumacher
+  - Frank Hollmann
+  - Jens Schrader
+  - Dirk Holtmann
+  publisher: 'Journal of Molecular Catalysis B: Enzymatic'
+  date: '2014-05-01'
+  link: https://doi.org/f54d8k
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c3gc42269k
+  title: Enzymatic halogenation of the phenolic monoterpenes thymol and carvacrol
+    with chloroperoxidase
+  authors:
+  - Laura Getrey
+  - Thomas Krieg
+  - Frank Hollmann
+  - Jens Schrader
+  - Dirk Holtmann
+  publisher: Green Chem.
+  date: '2014-01-01'
+  link: https://doi.org/g79btd
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12268-014-0412-7
+  title: Biokatalyse in unkonventionellen Reaktionsmedien
+  authors:
+  - Frank Hollmann
+  - Selin Kara
+  publisher: BIOspektrum
+  date: '2014-02-01'
+  link: https://doi.org/g79btg
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11244-013-0192-1
+  title: "Exploring the Substrate Specificity and Enantioselectivity of a Baeyer\u2013\
+    Villiger Monooxygenase from Dietzia sp. D5: Oxidation of Sulfides and Aldehydes"
+  authors:
+  - Serena Bisagni
+  - Benjamin Summers
+  - Selin Kara
+  - Rajni Hatti-Kaul
+  - Gideon Grogan
+  - Gashaw Mamo
+  - Frank Hollmann
+  publisher: Topics in Catalysis
+  date: '2013-11-16'
+  link: https://doi.org/f24fb4
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcatb.2013.10.020
+  title: Heterologous expression and characterization of the ene-reductases from Deinococcus
+    radiodurans and Ralstonia metallidurans
+  authors:
+  - S. Litthauer
+  - S. Gargiulo
+  - E. van Heerden
+  - F. Hollmann
+  - D.J. Opperman
+  publisher: 'Journal of Molecular Catalysis B: Enzymatic'
+  date: '2014-01-01'
+  link: https://doi.org/f5rxtv
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201300976
+  title: How Green is Biocatalysis? To Calculate is To Know
+  authors:
+  - Yan Ni
+  - Dirk Holtmann
+  - Frank Hollmann
+  publisher: ChemCatChem
+  date: '2014-02-12'
+  link: https://doi.org/f2p2kx
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11244-013-0195-y
+  title: Hydrophobic Formic Acid Esters for Cofactor Regeneration in Aqueous/Organic
+    Two-Liquid Phase Systems
+  authors:
+  - Ekaterina Churakova
+  - "Bart\u0142omiej Tomaszewski"
+  - Katja Buehler
+  - Andreas Schmid
+  - Isabel Arends
+  - Frank Hollmann
+  publisher: Topics in Catalysis
+  date: '2013-11-14'
+  link: https://doi.org/f5vcxf
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bmc.2014.05.074
+  title: In situ formation of H2O2 for P450 peroxygenases
+  authors:
+  - Caroline E. Paul
+  - Ekaterina Churakova
+  - Elmer Maurits
+  - Marco Girhard
+  - Vlada B. Urlacher
+  - Frank Hollmann
+  publisher: Bioorganic &amp; Medicinal Chemistry
+  date: '2014-10-01'
+  link: https://doi.org/f6md86
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/cs4011056
+  title: Is Simpler Better? Synthetic Nicotinamide Cofactor Analogues for Redox Chemistry
+  authors:
+  - Caroline E. Paul
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  publisher: ACS Catalysis
+  date: '2014-02-05'
+  link: https://doi.org/g79btt
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cplu.201402152
+  title: "Light\u2010Accelerated Biocatalytic Oxidation Reactions"
+  authors:
+  - Svenja Kochius
+  - Yan Ni
+  - Selin Kara
+  - Serena Gargiulo
+  - Jens Schrader
+  - Dirk Holtmann
+  - Frank Hollmann
+  publisher: ChemPlusChem
+  date: '2014-08-21'
+  link: https://doi.org/f2tn2x
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcatb.2014.03.016
+  title: Lipase-catalyzed transesterification of ethyl formate to octyl formate
+  authors:
+  - Leonie M.G. Janssen
+  - Remco van Oosten
+  - Caroline E. Paul
+  - Isabel W.C.E. Arends
+  - Frank Hollmann
+  publisher: 'Journal of Molecular Catalysis B: Enzymatic'
+  date: '2014-07-01'
+  link: https://doi.org/f56nmg
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ncomms4145
+  title: Photobiocatalytic chemistry of oxidoreductases using water as the electron
+    donor
+  authors:
+  - Maria Mifsud
+  - Serena Gargiulo
+  - Sara Iborra
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  - Avelino Corma
+  publisher: Nature Communications
+  date: '2014-01-28'
+  link: https://doi.org/gbfpxf
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcatb.2013.09.006
+  title: 'Pyrococcus furiosus-mediated reduction of conjugated carboxylic acids: Towards
+    using syngas as reductant'
+  authors:
+  - Yan Ni
+  - Peter-Leon Hagedoorn
+  - Jian-He Xu
+  - Isabel W.C.E. Arends
+  - Frank Hollmann
+  publisher: 'Journal of Molecular Catalysis B: Enzymatic'
+  date: '2014-05-01'
+  link: https://doi.org/f54sfq
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00253-013-5441-5
+  title: Recent trends and novel concepts in cofactor-dependent biotransformations
+  authors:
+  - Selin Kara
+  - Joerg H. Schrittwieser
+  - Frank Hollmann
+  - Marion B. Ansorge-Schumacher
+  publisher: Applied Microbiology and Biotechnology
+  date: '2013-12-21'
+  link: https://doi.org/f5t227
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcatb.2014.03.013
+  title: Structure of the NADH-dependent thermostable alcohol dehydrogenase TADH from
+    Thermus sp. ATN1 provides a platform for engineering specificity and improved
+    compatibility with inorganic cofactor-regeneration catalysts
+  authors:
+  - Henry Man
+  - Serena Gargiulo
+  - Annika Frank
+  - Frank Hollmann
+  - Gideon Grogan
+  publisher: 'Journal of Molecular Catalysis B: Enzymatic'
+  date: '2014-07-01'
+  link: https://doi.org/f56mq6
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c3cc49747j
+  title: 'The taming of oxygen: biocatalytic oxyfunctionalisations'
+  authors:
+  - Dirk Holtmann
+  - Marco W. Fraaije
+  - Isabel W. C. E. Arends
+  - Diederik J. Opperman
+  - Frank Hollmann
+  publisher: Chem. Commun.
+  date: '2014-01-01'
+  link: https://doi.org/gmgssh
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/cs400535c
+  title: Access to Lactone Building Blocks via Horse Liver Alcohol Dehydrogenase-Catalyzed
+    Oxidative Lactonization
+  authors:
+  - Selin Kara
+  - Dominik Spickermann
+  - Joerg H. Schrittwieser
+  - Andrea Weckbecker
+  - Christian Leggewie
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  publisher: ACS Catalysis
+  date: '2013-09-26'
+  link: https://doi.org/g79bt9
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CDC.2013.6760765
+  title: Adaptive mirror control for an optical resonator cavity
+  authors:
+  - Niek Doelman
+  - Rens van den Braber
+  - Walter Kasparek
+  - Volker Erckmann
+  - Waldo Bongers
+  - Jorg Stober
+  - Erik Fritz
+  - Bert Dekker
+  - Bob Krijger
+  - Frank Hollmann
+  - Georg Michel
+  - Frank Noke
+  - Frank Purps
+  - Marc Maraschek
+  - Francesco Monaco
+  - Stefan Muller
+  - Harald Schutz
+  - Dietmar Wagner
+  publisher: 52nd IEEE Conference on Decision and Control
+  date: '2013-12-01'
+  link: https://doi.org/g79bvd
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201300205
+  title: "Expanding the Scope of Laccase\u2010Mediator Systems"
+  authors:
+  - "Paul K\xF6nst"
+  - Selin Kara
+  - Svenja Kochius
+  - Dirk Holtmann
+  - Isabel W. C. E. Arends
+  - Roland Ludwig
+  - Frank Hollmann
+  publisher: ChemCatChem
+  date: '2013-07-03'
+  link: https://doi.org/f2dgwj
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.enzmictec.2012.12.003
+  title: Expression and characterization of the nitrile reductase queF from E. coli
+  authors:
+  - Kathrin Moeller
+  - Giang-Son Nguyen
+  - Frank Hollmann
+  - Ulf Hanefeld
+  publisher: Enzyme and Microbial Technology
+  date: '2013-03-01'
+  link: https://doi.org/g79bvk
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201200490
+  title: "Increasing the Productivity of Peroxidase\u2010Catalyzed Oxyfunctionalization:\
+    \ A Case Study on the Potential of Two\u2010Liquid\u2010Phase Systems"
+  authors:
+  - Ekaterina Churakova
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  publisher: ChemCatChem
+  date: '2012-11-05'
+  link: https://doi.org/fz9dmg
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1155/2013/402172
+  title: 'Ionic Liquids: Green Solvents for Chemical Processing'
+  authors:
+  - "Antonia P\xE9rez de los R\xEDos"
+  - Angel Irabien
+  - Frank Hollmann
+  - "Francisco Jos\xE9 Hern\xE1ndez Fern\xE1ndez"
+  publisher: Journal of Chemistry
+  date: '2013-01-01'
+  link: https://doi.org/gb7bmc
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.fusengdes.2012.11.026
+  title: Matching of the ECRH transmission line of W7-X
+  authors:
+  - Georg Michel
+  - Volker Erckmann
+  - Frank Hollmann
+  - Lothar Jonitz
+  - Walter Kasparek
+  - Heinrich Laqua
+  - Carsten Lechte
+  - Nikolai Marushchenko
+  - Burkhard Plaum
+  - Yuriy Turkin
+  - "Michael Wei\xDFgerber"
+  publisher: Fusion Engineering and Design
+  date: '2013-10-01'
+  link: https://doi.org/f5hb44
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ol303240a
+  title: "Mimicking Nature: Synthetic Nicotinamide Cofactors for C\u2550C Bioreduction\
+    \ Using Enoate Reductases"
+  authors:
+  - Caroline E. Paul
+  - Serena Gargiulo
+  - Diederik J. Opperman
+  - "Iv\xE1n Lavandera"
+  - "Vicente Gotor-Fern\xE1ndez"
+  - Vicente Gotor
+  - Andreas Taglieber
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  publisher: Organic Letters
+  date: '2012-12-20'
+  link: https://doi.org/g79bvz
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c2gc36797a
+  title: "More efficient redox biocatalysis by utilising 1,4-butanediol as a \u2018\
+    smart cosubstrate\u2019"
+  authors:
+  - Selin Kara
+  - Dominik Spickermann
+  - Joerg H. Schrittwieser
+  - Christian Leggewie
+  - Willem J. H. van Berkel
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  publisher: Green Chemistry
+  date: '2013-01-01'
+  link: https://doi.org/g79bv5
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c3gc41666f
+  title: One-pot combination of enzyme and Pd nanoparticle catalysis for the synthesis
+    of enantiomerically pure 1,2-amino alcohols
+  authors:
+  - Joerg H. Schrittwieser
+  - Francesca Coccia
+  - Selin Kara
+  - Barbara Grischek
+  - Wolfgang Kroutil
+  - Nicola d'Alessandro
+  - Frank Hollmann
+  publisher: Green Chemistry
+  date: '2013-01-01'
+  link: https://doi.org/f3sqf7
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/9783527665785.ch08
+  title: Strategies for Cofactor Regeneration in Biocatalyzed Reductions
+  authors:
+  - Selin Kara
+  - Joerg H. Schrittwieser
+  - Frank Hollmann
+  publisher: Synthetic Methods for Biologically Active Molecules
+  date: '2013-08-30'
+  link: https://doi.org/g79bv8
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nchem.1498
+  title: Synthetic cascades are enabled by combining biocatalysts with artificial
+    metalloenzymes
+  authors:
+  - "V. K\xF6hler"
+  - Y. M. Wilson
+  - "M. D\xFCrrenberger"
+  - D. Ghislieri
+  - E. Churakova
+  - T. Quinto
+  - "L. Kn\xF6rr"
+  - "D. H\xE4ussinger"
+  - F. Hollmann
+  - N. J. Turner
+  - T. R. Ward
+  publisher: Nature Chemistry
+  date: '2012-11-25'
+  link: https://doi.org/g79bwb
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c2cc36479d
+  title: A biocatalytic hydrogenation of carboxylic acids
+  authors:
+  - Yan Ni
+  - Peter-Leon Hagedoorn
+  - Jian-He Xu
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  publisher: Chemical Communications
+  date: '2012-01-01'
+  link: https://doi.org/g79bwd
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c2cc31947k
+  title: A biocatalytic redox isomerisation
+  authors:
+  - Serena Gargiulo
+  - Diederik J. Opperman
+  - Ulf Hanefeld
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  publisher: Chemical Communications
+  date: '2012-01-01'
+  link: https://doi.org/g79bwh
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201100312
+  title: "Chemoenzymatic Reduction of Conjugated C\uF8FEC Double Bonds"
+  authors:
+  - Julie Bernard
+  - "Esta van\u2005Heerden"
+  - Isabel W. C. E. Arends
+  - Diederik J. Opperman
+  - Frank Hollmann
+  publisher: ChemCatChem
+  date: '2011-12-06'
+  link: https://doi.org/c5gbph
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1051/epjconf/20123204005
+  title: Controlled Mirror Motion System for Resonant Diplexers in ECRH Applications
+  authors:
+  - N. Doelman
+  - R. van den Braber
+  - W. Kasparek
+  - V. Erckmann
+  - W. Bongers
+  - B. Krijger
+  - J. Stober
+  - E. Fritz
+  - B. Dekker
+  - W. Klop
+  - F. Hollmann
+  - G. Michel
+  - F. Noke
+  - F. Purps
+  - M. de Baar
+  - M. Maraschek
+  - F. Monaco
+  - "S. M\xFCller"
+  - "H. Sch\xFCtz"
+  - D. Wagner
+  publisher: EPJ Web of Conferences
+  date: '2012-01-01'
+  link: https://doi.org/g79bwm
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/anie.201203219
+  title: Enantioselective Oxidation of Aldehydes Catalyzed by Alcohol Dehydrogenase
+  authors:
+  - "Paul K\xF6nst"
+  - Hedda Merkens
+  - Selin Kara
+  - Svenja Kochius
+  - Andreas Vogel
+  - Ralf Zuhse
+  - Dirk Holtmann
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  publisher: Angewandte Chemie International Edition
+  date: '2012-08-31'
+  link: https://doi.org/fz6jm2
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/polym4010759
+  title: Enzyme Initiated Radical Polymerizations
+  authors:
+  - Frank Hollmann
+  - Isabel W. C. E. Arends
+  publisher: Polymers
+  date: '2012-03-06'
+  link: https://doi.org/gcfkch
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/anie.201208486
+  title: 'Corrigendum: Enantioselective Oxidation of Aldehydes Catalyzed by Alcohol
+    Dehydrogenase'
+  authors:
+  - "Paul K\xF6nst"
+  - Hedda Merkens
+  - Selin Kara
+  - Svenja Kochius
+  - Andreas Vogel
+  - Ralf Zuhse
+  - Dirk Holtmann
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  publisher: Angewandte Chemie International Edition
+  date: '2012-11-21'
+  link: https://doi.org/fz9hn8
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c2cc31401k
+  title: 'Ferritin-supported palladium nanoclusters: selective catalysts for aerobic
+    oxidations in water'
+  authors:
+  - S. Kanbak-Aksu
+  - M. Nahid Hasan
+  - W. R. Hagen
+  - F. Hollmann
+  - D. Sordi
+  - R. A. Sheldon
+  - I. W. C. E. Arends
+  publisher: Chemical Communications
+  date: '2012-01-01'
+  link: https://doi.org/g79bwq
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10532-011-9516-7
+  title: Immobilisation of laccase on Eupergit supports and its application for the
+    removal of endocrine disrupting chemicals in a packed-bed reactor
+  authors:
+  - L. Lloret
+  - F. Hollmann
+  - G. Eibes
+  - G. Feijoo
+  - M. T. Moreira
+  - J. M. Lema
+  publisher: Biodegradation
+  date: '2011-10-29'
+  link: https://doi.org/dp5h9z
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00253-012-3900-z
+  title: Immobilized redox mediators for electrochemical NAD(P)+ regeneration
+  authors:
+  - Svenja Kochius
+  - Anders O. Magnusson
+  - Frank Hollmann
+  - Jens Schrader
+  - Dirk Holtmann
+  publisher: Applied Microbiology and Biotechnology
+  date: '2012-02-12'
+  link: https://doi.org/ghg7wf
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/9783527639861.ch32
+  title: Oxidation of Alcohols, Aldehydes, and Acids
+  authors:
+  - Frank Hollmann
+  - "Katja B\xFChler"
+  - "Bruno B\xFChler"
+  publisher: Enzyme Catalysis in Organic Synthesis
+  date: '2012-02-22'
+  link: https://doi.org/g79bwv
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/9783527639861.ch31
+  title: "Oxyfunctionalization of C\uF8FFC Multiple Bonds"
+  authors:
+  - "Bruno B\xFChler"
+  - "Katja B\xFChler"
+  - Frank Hollmann
+  publisher: Enzyme Catalysis in Organic Synthesis
+  date: '2012-02-22'
+  link: https://doi.org/g79bwx
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IRMMW-THz.2012.6380200
+  title: Progress on 140 GHz, 1 MW, CW series gyrotrons for W7-X
+  authors:
+  - J. Jelonnek
+  - H. Braune
+  - G. Dammertz
+  - V. Erckmann
+  - J. Flamm
+  - G. Gantenbein
+  - F. Hollmann
+  - L. Jonitz
+  - W. Kasparek
+  - S. Kern
+  - H. P. Laqua
+  - C. Lechte
+  - "F. L\xE9grand"
+  - W. Leonhardt
+  - G. Lietaer
+  - G. Michel
+  - F. Noke
+  - F. Purps
+  - A. Samartsev
+  - A. Schlaich
+  - M. Schmid
+  - M. Thumm
+  - P. Uhren
+  publisher: 2012 37th International Conference on Infrared, Millimeter, and Terahertz
+    Waves
+  date: '2012-09-01'
+  link: https://doi.org/g79bw5
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1051/epjconf/20123204008
+  title: Status of Resonant Diplexer Development for high-power ECRH Applications
+  authors:
+  - W. Kasparek
+  - B. Plaum
+  - C. Lechte
+  - E. Filipovic
+  - V. Erckmann
+  - "G. Gr\xFCnwald"
+  - F. Hollmann
+  - M. Maraschek
+  - G. Michel
+  - F. Monaco
+  - "S. M\xFCller"
+  - F. Noke
+  - F. Purps
+  - M Schubert
+  - "H. Sch\xFCtz"
+  - J. Stober
+  - D. Wagner
+  - R. van den Braber
+  - N. Doelman
+  - E. Fritz
+  - W. Bongers
+  - B. Krijger
+  - M. Petelin
+  - L. Lubyako
+  - A. Bruschi
+  - K. Sakamoto
+  publisher: EPJ Web of Conferences
+  date: '2012-01-01'
+  link: https://doi.org/g79bxc
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/molecules17089835
+  title: Towards Recyclable NAD(P)H Regeneration Catalysts
+  authors:
+  - Miriam De Torres
+  - Jonas Dimroth
+  - Isabel W. C. E. Arends
+  - Juliane Keilitz
+  - Frank Hollmann
+  publisher: Molecules
+  date: '2012-08-15'
+  link: https://doi.org/gbbkrb
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/irmmw-THz.2011.6105141
+  title: A new CW-load for high power ECRH systems
+  authors:
+  - H. Braune
+  - V. Erckmann
+  - F. Hollmann
+  - W. Kasparek
+  - F. Noke
+  - F. Purps
+  - T. Schulz
+  - D. Wagner
+  publisher: 2011 International Conference on Infrared, Millimeter, and Terahertz
+    Waves
+  date: '2011-10-01'
+  link: https://doi.org/fxzrp2
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201000317
+  title: A Photoenzymatic System for Alcohol Oxidation
+  authors:
+  - Serena Gargiulo
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  publisher: ChemCatChem
+  date: '2010-11-18'
+  link: https://doi.org/c5gbhd
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1104/pp.111.178426
+  title: Are Natural Deep Eutectic Solvents the Missing Link in Understanding Cellular
+    Metabolism and Physiology?
+  authors:
+  - Young Hae Choi
+  - Jaap van Spronsen
+  - Yuntao Dai
+  - Marianne Verberne
+  - Frank Hollmann
+  - Isabel W.C.E. Arends
+  - Geert-Jan Witkamp
+  - Robert Verpoorte
+  publisher: Plant Physiology
+  date: '2011-08-01'
+  link: https://doi.org/fbtgpr
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c1gc15424a
+  title: Enzymatic reductions for the chemist
+  authors:
+  - Frank Hollmann
+  - Isabel W. C. E. Arends
+  - Dirk Holtmann
+  publisher: Green Chemistry
+  date: '2011-01-01'
+  link: https://doi.org/bx9khs
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c0gc00595a
+  title: Enzyme-mediated oxidations for the chemist
+  authors:
+  - Frank Hollmann
+  - Isabel W. C. E. Arends
+  - Katja Buehler
+  - Anett Schallmey
+  - "Bruno B\xFChler"
+  publisher: Green Chem.
+  date: '2011-01-01'
+  link: https://doi.org/bpkwsn
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.13182/FST11-A11738
+  title: High-Power Performance of a Resonant Diplexer for Advanced ECRH
+  authors:
+  - W. Kasparek
+  - R. Van Den Braber
+  - N. Doelman
+  - E. Fritz
+  - V. Erckmann
+  - F. Hollmann
+  - G. Michel
+  - F. Noke
+  - F. Purps
+  - W. Bongers
+  - B. Krijger
+  - M. Petelin
+  - L. Lubyako
+  - A. Bruschi
+  publisher: Fusion Science and Technology
+  date: '2011-05-01'
+  link: https://doi.org/g79bxs
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/btpr.694
+  title: "Immobilization of laccase by encapsulation in a sol\u2013gel matrix and\
+    \ its characterization and use for the removal of estrogens"
+  authors:
+  - L. Lloret
+  - G. Eibes
+  - G. Feijoo
+  - M. T. Moreira
+  - J. M. Lema
+  - F. Hollmann
+  publisher: Biotechnology Progress
+  date: '2011-09-14'
+  link: https://doi.org/c9gqkc
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcatb.2011.04.002
+  title: Improved esterification activity of Candida rugosa lipase in organic solvent
+    by immobilization as Cross-linked enzyme aggregates (CLEAs)
+  authors:
+  - Funda Kartal
+  - Michiel H.A. Janssen
+  - Frank Hollmann
+  - Roger A. Sheldon
+  - "Ali K\u0131l\u0131nc"
+  publisher: 'Journal of Molecular Catalysis B: Enzymatic'
+  date: '2011-09-01'
+  link: https://doi.org/bpz9px
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/anie.201105308
+  title: Specific Photobiocatalytic Oxyfunctionalization Reactions
+  authors:
+  - Ekaterina Churakova
+  - Martin Kluge
+  - "Ren\xE9 Ullrich"
+  - Isabel Arends
+  - Martin Hofrichter
+  - Frank Hollmann
+  publisher: Angewandte Chemie International Edition
+  date: '2011-09-16'
+  link: https://doi.org/c5fr7h
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cctc.201000069
+  title: 'Biocatalytic Redox Reactions for Organic Synthesis: Nonconventional Regeneration
+    Methods'
+  authors:
+  - Frank Hollmann
+  - "Isabel\u2005W.\u2005C.\u2005E. Arends"
+  - Katja Buehler
+  publisher: ChemCatChem
+  date: '2010-07-07'
+  link: https://doi.org/c5gbdv
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TPS.2010.2047658
+  title: Diplexers for Power Combination and Switching in High Power ECRH Systems
+  authors:
+  - Alex Bruschi
+  - Volker Erckmann
+  - Walter Kasparek
+  - Michael I Petelin
+  - Manfred Thumm
+  - William Bin
+  - Sante Cirant
+  - Ocleto D'Arcangelo
+  - Frank Hollmann
+  - Lev Lubyako
+  - Frank Noke
+  - Burkhard Plaum
+  - Frank Purps
+  - Hartmut Zohm
+  publisher: IEEE Transactions on Plasma Science
+  date: '2010-06-01'
+  link: https://doi.org/fgkptv
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jbiotec.2010.09.951
+  title: Engineering of Candida antarctica lipase B for hydrolysis of bulky carboxylic
+    acid esters
+  authors:
+  - P.B. Juhl
+  - K. Doderer
+  - F. Hollmann
+  - O. Thum
+  - J. Pleiss
+  publisher: Journal of Biotechnology
+  date: '2010-12-01'
+  link: https://doi.org/bdq8wc
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/9783527632534.ch6
+  title: Enzymatic Polymerization of Vinyl Polymers
+  authors:
+  - Frank Hollmann
+  publisher: Biocatalysis in Polymer Chemistry
+  date: '2010-11-24'
+  link: https://doi.org/fmkdns
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tibtech.2009.10.001
+  title: 'Enzyme engineering for enantioselectivity: from trial-and-error to rational
+    design?'
+  authors:
+  - Linda G. Otten
+  - Frank Hollmann
+  - Isabel W.C.E. Arends
+  publisher: Trends in Biotechnology
+  date: '2010-01-01'
+  link: https://doi.org/dtjjdf
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biochi.2009.09.017
+  title: Increasing the synthesis/hydrolysis ratio of aminoacylase 1 by site-directed
+    mutagenesis
+  authors:
+  - Rainer Wardenga
+  - Holger A. Lindner
+  - Frank Hollmann
+  - Oliver Thum
+  - Uwe Bornscheuer
+  publisher: Biochimie
+  date: '2010-01-01'
+  link: https://doi.org/fqq35n
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcatb.2010.01.006
+  title: "On the nature of mutual inactivation between [Cp*Rh(bpy)(H2O)]2+ and enzymes\
+    \ \u2013 analysis and potential remedies"
+  authors:
+  - "Ma\xEBl Poizat"
+  - Isabel W.C.E. Arends
+  - Frank Hollmann
+  publisher: 'Journal of Molecular Catalysis B: Enzymatic'
+  date: '2010-05-01'
+  link: https://doi.org/cv6kkp
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/aoc.1623
+  title: "Phosphite\u2010driven, [Cp*Rh(bpy)(H<sub>2</sub>O)]<sup>2+</sup>\u2010catalyzed\
+    \ reduction of nicotinamide and flavin cofactors: characterization and application\
+    \ to promote chemoenzymatic reduction reactions"
+  authors:
+  - Maria Mifsud Grau
+  - "Ma\xEBl Poizat"
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  publisher: Applied Organometallic Chemistry
+  date: '2010-03-23'
+  link: https://doi.org/bf5fqq
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/adsc.200900033
+  title: A New Regeneration System for Oxidized Nicotinamide Cofactors
+  authors:
+  - Seda Aksu
+  - "Isabel W.\u2005C.\u2005E. Arends"
+  - Frank Hollmann
+  publisher: Advanced Synthesis &amp; Catalysis
+  date: '2009-06-01'
+  link: https://doi.org/c5dsw9
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/b913863c
+  title: Deazaflavins as mediators in light-driven cytochrome P450 catalyzed hydroxylations
+  authors:
+  - Felipe E. Zilly
+  - Andreas Taglieber
+  - Frank Schulz
+  - Frank Hollmann
+  - Manfred T. Reetz
+  publisher: Chemical Communications
+  date: '2009-01-01'
+  link: https://doi.org/cx34rh
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.13182/FST09-A4049
+  title: 'ECRH for W7-X: Transmission Losses of High-Power 140-GHz Wave Beams'
+  authors:
+  - V. Erckmann
+  - W. Kasparek
+  - G. Gantenbein
+  - F. Hollmann
+  - L. Jonitz
+  - F. Noke
+  - F. Purps
+  - M. Weissgerber
+  publisher: Fusion Science and Technology
+  date: '2009-01-01'
+  link: https://doi.org/g79bx9
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.fusengdes.2008.11.070
+  title: High-power microwave diplexers for advanced ECRH systems
+  authors:
+  - W. Kasparek
+  - M. Petelin
+  - V. Erckmann
+  - A. Bruschi
+  - F. Noke
+  - F. Purps
+  - F. Hollmann
+  - Y. Koshurinov
+  - L. Lubyako
+  - B. Plaum
+  - W. Wubie
+  publisher: Fusion Engineering and Design
+  date: '2009-06-01'
+  link: https://doi.org/cqqsh8
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcatb.2008.09.012
+  title: On the inactivity of Candida antartica lipase B towards strong acids
+  authors:
+  - F. Hollmann
+  - P. Grzebyk
+  - V. Heinrichs
+  - K. Doderer
+  - O. Thum
+  publisher: 'Journal of Molecular Catalysis B: Enzymatic'
+  date: '2009-05-01'
+  link: https://doi.org/dbmjm7
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/adsc.200900560
+  title: "Photoenzymatic Reduction of C\uF8FEC Double Bonds"
+  authors:
+  - Maria Mifsud Grau
+  - "John\u2005C. van der Toorn"
+  - "Linda\u2005G. Otten"
+  - Peter Macheroux
+  - Andreas Taglieber
+  - "Felipe\u2005E. Zilly"
+  - "Isabel W.\u2005C.\u2005E. Arends"
+  - Frank Hollmann
+  publisher: Advanced Synthesis &amp; Catalysis
+  date: '2009-12-01'
+  link: https://doi.org/bhdpgc
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.13182/FST09-A4050
+  title: Power Combination of Two 140-GHz Gyrotrons and Fast Switching of the Combined
+    Beam
+  authors:
+  - V. Erckmann
+  - W. Kasparek
+  - Y. Koshurinov
+  - L. Lubyako
+  - M. I. Petelin
+  - D. Yu. Shchegolkov
+  - F. Hollmann
+  - G. Michel
+  - F. Noke
+  - F. Purps
+  publisher: Fusion Science and Technology
+  date: '2009-01-01'
+  link: https://doi.org/g79bzn
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/9780470748589.ch10
+  title: Reduction of Functional Groups
+  authors:
+  - Andrew S. Lamm
+  - Arshdeep Khare
+  - John P. N. Rosazza
+  - Andreas Taglieber
+  - Frank Schulz
+  - Frank Hollmann
+  - Monika Rusek
+  - Manfred T. Reetz
+  - Thierry Gefflaut
+  - Emmanuelle Sagot
+  - Jean Bolte
+  - Hisaaki Mihara
+  - Nobuyoshi Esaki
+  - Philip Conway
+  - Francesca Paradisi
+  - Paul Engel
+  publisher: Practical Methods for Biocatalysis and Biotransformations
+  date: '2009-12-15'
+  link: https://doi.org/cbpqgh
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jinorgbio.2008.11.005
+  title: "Towards [Cp\u2217Rh(bpy)(H2O)]2+-promoted P450 catalysis: Direct regeneration\
+    \ of CytC"
+  authors:
+  - Frank Hollmann
+  - Andreas Schmid
+  publisher: Journal of Inorganic Biochemistry
+  date: '2009-03-01'
+  link: https://doi.org/d95rhd
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/b915078a
+  title: Visible light-driven and chloroperoxidase-catalyzed oxygenation reactions
+  authors:
+  - Daniel I. Perez
+  - Maria Mifsud Grau
+  - Isabel W. C. E. Arends
+  - Frank Hollmann
+  publisher: Chemical Communications
+  date: '2009-01-01'
+  link: https://doi.org/fcxb8n
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ma801763t
+  title: Evaluation of the Laccase from Myceliophthora thermophila as Industrial Biocatalyst
+    for Polymerization Reactions
+  authors:
+  - Frank Hollmann
+  - Yosephine Gumulya
+  - "Christoph T\xF6lle"
+  - Andreas Liese
+  - Oliver Thum
+  publisher: Macromolecules
+  date: '2008-10-21'
+  link: https://doi.org/bkv9zq
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00253-008-1716-7
+  title: Functional expression of porcine aminoacylase 1 in E. coli using a codon
+    optimized synthetic gene and molecular chaperones
+  authors:
+  - Rainer Wardenga
+  - Frank Hollmann
+  - Oliver Thum
+  - Uwe Bornscheuer
+  publisher: Applied Microbiology and Biotechnology
+  date: '2008-12-01'
+  link: https://doi.org/bpmts4
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/9783527618262.ch16g
+  title: "Oxidation of C\uF8FFN Bonds"
+  authors:
+  - Andreas Schmid
+  - Frank Hollmann
+  - "Bruno B\xFChler"
+  publisher: Enzyme Catalysis in Organic Synthesis
+  date: '2002-04-11'
+  link: https://doi.org/bbcffq
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/9783527618262.ch16f
+  title: Oxidation of Acids
+  authors:
+  - Andreas Schmid
+  - Frank Hollmann
+  - "Bruno B\xFChler"
+  publisher: Enzyme Catalysis in Organic Synthesis
+  date: '2002-04-11'
+  link: https://doi.org/b3pqxp
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/9783527618262.ch16b
+  title: Oxidation of Alcohols
+  authors:
+  - Andreas Schmid
+  - Frank Hollmann
+  - "Bruno B\xFChler"
+  publisher: Enzyme Catalysis in Organic Synthesis
+  date: '2002-04-11'
+  link: https://doi.org/bth4b6
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/9783527618262.ch16d
+  title: Oxidation of Aldehydes
+  authors:
+  - Andreas Schmid
+  - Frank Hollmann
+  - "Bruno B\xFChler"
+  publisher: Enzyme Catalysis in Organic Synthesis
+  date: '2002-04-11'
+  link: https://doi.org/djxch4
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/9783527618262.ch16c
+  title: Oxidation of Phenols
+  authors:
+  - Andreas Schmid
+  - Frank Hollmann
+  - "Bruno B\xFChler"
+  publisher: Enzyme Catalysis in Organic Synthesis
+  date: '2002-04-11'
+  link: https://doi.org/ccjnk9
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00253-008-1606-z
+  title: 'TADH, the thermostable alcohol dehydrogenase from Thermus sp. ATN1: a versatile
+    new biocatalyst for organic synthesis'
+  authors:
+  - "Volker H\xF6llrigl"
+  - Frank Hollmann
+  - Andreas C. Kleeb
+  - Katja Buehler
+  - Andreas Schmid
+  publisher: Applied Microbiology and Biotechnology
+  date: '2008-11-01'
+  link: https://doi.org/drx24w
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/anie.200605169
+  title: "A Light\u2010Driven Stereoselective Biocatalytic Oxidation"
+  authors:
+  - Frank Hollmann
+  - Andreas Taglieber
+  - Frank Schulz
+  - "Manfred\u2005T. Reetz"
+  publisher: Angewandte Chemie International Edition
+  date: '2007-04-05'
+  link: https://doi.org/c5fh7q
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.fusengdes.2007.05.055
+  title: Advances in high power calorimetric matched loads for short pulses and CW
+    gyrotrons
+  authors:
+  - W. Bin
+  - A. Bruschi
+  - S. Cirant
+  - V. Erckmann
+  - F. Gandini
+  - G. Granucci
+  - F. Hollmann
+  - H.P. Laqua
+  - V. Mellera
+  - V. Muzzini
+  - A. Nardone
+  - F. Noke
+  - B. Piosczyk
+  - F. Purps
+  - T. Rzesnicki
+  - M. Schmid
+  - C. Sozzi
+  - W. Spies
+  - N. Spinicchia
+  - M. Stoner
+  publisher: Fusion Engineering and Design
+  date: '2007-10-01'
+  link: https://doi.org/bj4ksv
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tet.2007.03.177
+  title: 'Directed evolution of enantioselective hybrid catalysts: a novel concept
+    in asymmetric catalysis'
+  authors:
+  - Manfred T. Reetz
+  - Martin Rentzsch
+  - Andreas Pletsch
+  - Matthias Maywald
+  - Peter Maiwald
+  - "J\xE9r\xF4me J.-P. Peyralans"
+  - Andrea Maichele
+  - Yu Fu
+  - Ning Jiao
+  - Frank Hollmann
+  - "R\xE9gis Mondi\xE8re"
+  - Andreas Taglieber
+  publisher: Tetrahedron
+  date: '2007-07-01'
+  link: https://doi.org/d9hsdz
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tetasy.2006.03.001
+  title: "Corrigendum to \u201CCoupled chemoenzymatic transfer hydrogenation catalysis\
+    \ for enantioselective reduction and oxidation reactions\u201D"
+  authors:
+  - Frank Hollmann
+  - Andreas Kleeb
+  - Katja Otto
+  - Andreas Schmid
+  publisher: 'Tetrahedron: Asymmetry'
+  date: '2006-03-01'
+  link: https://doi.org/b9btv2
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.13182/FST06-A1216
+  title: High-Power Tests of a Remote-Steering Antenna at 140 GHz
+  authors:
+  - B. Plaum
+  - G. Gantenbein
+  - W. Kasparek
+  - "K. Schw\xF6rer"
+  - "M. Gr\xFCnert"
+  - H. Braune
+  - V. Erckmann
+  - F. Hollmann
+  - L. Jonitz
+  - H. Laqua
+  - G. Michel
+  - F. Noke
+  - F. Purps
+  - A. Bruschi
+  - S. Cirant
+  - F. Gandini
+  - A. G. A. Verhoeven
+  publisher: Fusion Science and Technology
+  date: '2006-07-01'
+  link: https://doi.org/g79b2s
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tibtech.2006.02.003
+  title: Non-enzymatic regeneration of nicotinamide and flavin cofactors for monooxygenase
+    catalysis
+  authors:
+  - F. Hollmann
+  - K. Hofstetter
+  - A. Schmid
+  publisher: Trends in Biotechnology
+  date: '2006-04-01'
+  link: https://doi.org/d73svj
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tetasy.2005.09.026
+  title: Coupled chemoenzymatic transfer hydrogenation catalysis for enantioselective
+    reduction and oxidation reactions
+  authors:
+  - Frank Hollmann
+  - Andreas Kleeb
+  - Katja Otto
+  - Andreas Schmid
+  publisher: 'Tetrahedron: Asymmetry'
+  date: '2005-10-01'
+  link: https://doi.org/fmhtcs
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ja050997b
+  title: Direct Electrochemical Regeneration of Monooxygenase Subunits for Biocatalytic
+    Asymmetric Epoxidation
+  authors:
+  - Frank Hollmann
+  - Karin Hofstetter
+  - Tilo Habicher
+  - Bernhard Hauer
+  - Andreas Schmid
+  publisher: Journal of the American Chemical Society
+  date: '2005-04-14'
+  link: https://doi.org/fg987j
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/adsc.200505029
+  title: "FADH<sub>2</sub>\u2010Dependence of Tryptophan 7\u2010Halogenase"
+  authors:
+  - Susanne Unversucht
+  - Frank Hollmann
+  - Andreas Schmid
+  - "Karl\u2010Heinz van\u2005P\xE9e"
+  publisher: Advanced Synthesis &amp; Catalysis
+  date: '2005-06-01'
+  link: https://doi.org/cfhw9k
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1742-6596/25/1/016
+  title: High-power tests of a remote steering launcher mock-up at 140 GHz
+  authors:
+  - B Plaum
+  - G Gantenbein
+  - W Kasparek
+  - "K Schw\xF6rer"
+  - "M Gr\xFCnert"
+  - H Braune
+  - V Erckmann
+  - F Hollmann
+  - L Jonitz
+  - H Laqua
+  - G Michel
+  - F Noke
+  - F Purps
+  - A Bruschi
+  - S Cirant
+  - F Gandini
+  - A G A Verhoeven
+  - ECRH group at IPP Greifswald
+  - ECRH group at FZK Karlsruhe
+  - ECRH group at IPF Stuttgart
+  publisher: 'Journal of Physics: Conference Series'
+  date: '2005-01-01'
+  link: https://doi.org/d52tqz
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ejoc.200400866
+  title: "Preparation of Enantiomerically Pure [3]Ferrocenophane\u2010Based Chelate\
+    \ Bis\u2010Phosphane Ligands and Their Use in Asymmetric Alternating Carbon Monoxide/Propene\
+    \ Copolymerization"
+  authors:
+  - Patrick Liptau
+  - Ludger Tebben
+  - Gerald Kehr
+  - "Roland Fr\xF6hlich"
+  - Gerhard Erker
+  - Frank Hollmann
+  - Bernhard Rieger
+  publisher: European Journal of Organic Chemistry
+  date: '2005-04-25'
+  link: https://doi.org/c5s57r
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.fusengdes.2005.06.247
+  title: Status of the 140GHz, 10MW CW transmission system for ECRH on the stellarator
+    W7-X
+  authors:
+  - W. Kasparek
+  - P. Brand
+  - H. Braune
+  - G. Dammertz
+  - V. Erckmann
+  - G. Gantenbein
+  - F. Hollmann
+  - "M. Gr\xFCnert"
+  - H. Kumric
+  - L. Jonitz
+  - H.P. Laqua
+  - W. Leonhardt
+  - G. Michel
+  - F. Noke
+  - B. Plaum
+  - F. Purps
+  - M. Schmid
+  - T. Schulz
+  - "K. Schw\xF6rer"
+  - M. Thumm
+  - M. Weissgerber
+  publisher: Fusion Engineering and Design
+  date: '2005-11-01'
+  link: https://doi.org/dwfq87
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1860-5397-1-10
+  title: 'Towards practical biocatalytic Baeyer-Villiger reactions: applying a thermostable
+    enzyme in the gram-scale synthesis of optically-active lactones in a two-liquid-phase
+    system'
+  authors:
+  - Frank Schulz
+  - "Fran\xE7ois Leca"
+  - Frank Hollmann
+  - Manfred T Reetz
+  publisher: Beilstein Journal of Organic Chemistry
+  date: '2005-10-07'
+  link: https://doi.org/dbgrbz
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jorganchem.2004.09.044
+  title: 'Bioorganometallic chemistry: biocatalytic oxidation reactions with biomimetic
+    NAD+/NADH co-factors and [Cp*Rh(bpy)H]+ for selective organic synthesis'
+  authors:
+  - Jochen Lutz
+  - Frank Hollmann
+  - The Vinh Ho
+  - Adrian Schnyder
+  - Richard H. Fish
+  - Andreas Schmid
+  publisher: Journal of Organometallic Chemistry
+  date: '2004-12-01'
+  link: https://doi.org/ftg5cp
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.eurpolymj.2004.01.028
+  title: Effects of the chain microstructure on the properties of polyketones terpolymers
+    characterized by scanning force microscopy
+  authors:
+  - Sabine Hild
+  - Othmar Marti
+  - Frank Hollmann
+  - Bernhard Rieger
+  publisher: European Polymer Journal
+  date: '2004-05-01'
+  link: https://doi.org/c8f7vc
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/10242420410001692778
+  title: Electrochemical Regeneration of Oxidoreductases for Cell-free Biocatalytic
+    Redox Reactions
+  authors:
+  - Frank Hollmann
+  - Andreas Schmid
+  publisher: Biocatalysis and Biotransformation
+  date: '2004-03-01'
+  link: https://doi.org/fq7s4q
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/om049689x
+  title: Novel Single-Component Palladium(II) Catalysts for the Alternating CO/Propene
+    Copolymerization Reaction
+  authors:
+  - Dieter Meinhard
+  - Frank Hollmann
+  - Wolfgang Huhn
+  - Ulf Thewalt
+  - Marttii Klinga
+  - Bernhard Rieger
+  publisher: Organometallics
+  date: '2004-10-14'
+  link: https://doi.org/cz8473
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/mame.200300325
+  title: 'Polymerization Catalysis in Liquid Propylene: High Activities and Molecular
+    Weights in Propylene/CO Copolymerization Reactions'
+  authors:
+  - Frank Hollmann
+  - Uwe W. Meier
+  - "David P\xE9rez\u2010Foullerat"
+  - Bernhard Rieger
+  publisher: Macromolecular Materials and Engineering
+  date: '2004-07-01'
+  link: https://doi.org/c5t43h
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0920-3796(03)00264-3
+  title: Mirror development for the 140 GHz ECRH system of the stellarator W7-X
+  authors:
+  - H. Hailer
+  - G. Dammertz
+  - V. Erckmann
+  - G. Gantenbein
+  - F. Hollmann
+  - W. Kasparek
+  - W. Leonhardt
+  - M. Schmid
+  - "P.G. Sch\xFCller"
+  - M. Thumm
+  - M. Weissgerber
+  publisher: Fusion Engineering and Design
+  date: '2003-09-01'
+  link: https://doi.org/crhhj8
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/om0302138
+  title: "Nonsymmetric Palladium Complexes of Partly Fluorinated Bisphosphine Ligands:\u2009\
+    \ Efficient Catalysts for Flexible Propene/CO Copolymer Materials of Ultrahigh\
+    \ Molecular Weight"
+  authors:
+  - Uwe W. Meier
+  - Frank Hollmann
+  - Ulf Thewalt
+  - Martti Klinga
+  - "Markku Leskel\xE4"
+  - Bernhard Rieger
+  publisher: Organometallics
+  date: '2003-08-09'
+  link: https://doi.org/bzjjmj
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0029-5515/43/11/023
+  title: Performance of a remote steering antenna for ECRH/ECCD applications in ITER
+    using a four-wall corrugated square waveguide
+  authors:
+  - W Kasparek
+  - G Gantenbein
+  - B Plaum
+  - R Wacker
+  - A.V Chirkov
+  - G.G Denisov
+  - S.V Kuzikov
+  - K Ohkubo
+  - F Hollmann
+  - D Wagner
+  publisher: Nuclear Fusion
+  date: '2003-11-01'
+  link: https://doi.org/bhpzmt
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ja034119u
+  title: "Stereospecific Biocatalytic Epoxidation:\u2009 The First Example of Direct\
+    \ Regeneration of a FAD-Dependent Monooxygenase for Catalysis"
+  authors:
+  - Frank Hollmann
+  - Po-Chi Lin
+  - Bernard Witholt
+  - Andreas Schmid
+  publisher: Journal of the American Chemical Society
+  date: '2003-06-12'
+  link: https://doi.org/dntzm7
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1081/MB-120017120
+  title: Viscoelastic Behavior Of The Regular Alternating Terpolymers Of Ethene And
+    Propene With Carbon Monoxide
+  authors:
+  - V. P. Privalko
+  - V. B. Dolgoshey
+  - E. G. Privalko
+  - V. F. Shumsky
+  - F. Hollmann
+  - B. Rieger
+  publisher: Journal of Macromolecular Science, Part B
+  date: '2003-01-04'
+  link: https://doi.org/fnvcjx
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1081/MB-120002349
+  title: Dielectric relaxation of the alternating terpolymers of ethylene, propylene,
+    and carbon monoxide
+  authors:
+  - V. P. Privalko
+  - P. Pissis
+  - G. Polizos
+  - V. V. Korskanov
+  - E. G. Privalko
+  - V. I. Dolgoshey
+  - V. Yu. Kramarenko
+  - W. Huhn
+  - F. Hollmann
+  - B. Rieger
+  publisher: Journal of Macromolecular Science, Part B
+  date: '2002-03-13'
+  link: https://doi.org/cjvmw5
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0958-1669(02)00336-1
+  title: The use of enzymes in the chemical industry in Europe
+  authors:
+  - Andreas Schmid
+  - Frank Hollmann
+  - Jin Byung Park
+  - "Bruno B\xFChler"
+  publisher: Current Opinion in Biotechnology
+  date: '2002-08-01'
+  link: https://doi.org/bwf4tm
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S1381-1177(02)00164-9
+  title: "[Cp\u2217Rh(bpy)(H2O)]2+: a versatile tool for efficient and non-enzymatic\
+    \ regeneration of nicotinamide and flavin coenzymes"
+  authors:
+  - F Hollmann
+  - B Witholt
+  - A Schmid
+  publisher: 'Journal of Molecular Catalysis B: Enzymatic'
+  date: '2002-12-01'
+  link: https://doi.org/bxzx28
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0920-3796(00)00532-9
+  title: Mirror development for the 140 GHz ECRH transmission system on the stellarator
+    W7-X
+  authors:
+  - W Kasparek
+  - L Empacher
+  - V Erckmann
+  - G Gantenbein
+  - F Hollmann
+  - H.P Laqua
+  - "P.G Sch\xFCller"
+  - "M Wei\xDFgerber"
+  - H Zohm
+  publisher: Fusion Engineering and Design
+  date: '2001-01-01'
+  link: https://doi.org/bdkhkm
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0920-3796(01)00271-X
+  title: Performance of the 140 GHz prototype transmission system for ECRH on the
+    stellarator W7-X
+  authors:
+  - W Kasparek
+  - D Arz
+  - L Empacher
+  - V Erckmann
+  - G Gantenbein
+  - F Hollmann
+  - "P.G Sch\xFCller"
+  - "K Schw\xF6rer"
+  - "M Wei\xDFgerber"
+  publisher: Fusion Engineering and Design
+  date: '2001-10-01'
+  link: https://doi.org/bcbvpz
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0920-3796(00)00522-6
+  title: Simulation and experimental study of a remote steering system for ECRH/ECCD
+    antenna beams
+  authors:
+  - A.V Chirkov
+  - G.G Denisov
+  - W Kasparek
+  - D Wagner
+  - G Gantenbein
+  - M Haug
+  - F Hollmann
+  publisher: Fusion Engineering and Design
+  date: '2001-01-01'
+  link: https://doi.org/dw8hdr
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s003400100590
+  title: "Spectra of highly ionized xenon (6\u201330\_nm) excited in W7-AS plasmas"
+  authors:
+  - H.H. Hacker
+  - R. Burhenn
+  - K. Kondo
+  - M. Anton
+  - D. Assmus
+  - S. Baeumel
+  - C. Beidler
+  - T. Bindemann
+  - R. Brakel
+  - G. Cattanei
+  - A. Dinklage
+  - A. Dodhy
+  - D. Dorst
+  - H. Ehmler
+  - A. Elsner
+  - M. Endler
+  - K. Engelhardt
+  - V. Erckmann
+  - Y. Feng
+  - C. Fuchs
+  - F. Gadelmeier
+  - J. Geiger
+  - L. Giannone
+  - P. Grigull
+  - G. Gruenwald
+  - O. Grulke
+  - E. Harmeyer
+  - H.J. Hartfuss
+  - F. Herrnegger
+  - M. Hirsch
+  - J. Hofner
+  - F. Hollmann
+  - E. Holzhauer
+  - Y. Igitkhanov
+  - R. Jaenicke
+  - F. Karger
+  - M. Kick
+  - J. Kisslinger
+  - S. Klose
+  - J. Knauer
+  - H. Kroiss
+  - "G. K\xFChner"
+  - A. Kus
+  - H. Laqua
+  - R. Liu
+  - H. Maassberg
+  - N. Marushchenko
+  - K. McCormick
+  - G. Michel
+  - F. Noke
+  - W. Ott
+  - M. Otte
+  - M.G. Pacco-Duechs
+  - F.P. Penningsfeld
+  - E. Polunovsky
+  - F. Probst
+  - F. Purps
+  - N. Ruhs
+  - N. Rust
+  - N.J. Saffert
+  - A. Salat
+  - J. Sallander
+  - F. Sardei
+  - F. Schneider
+  - M. Schubert
+  - I. Sidorenko
+  - E. Speth
+  - R. Suess
+  - H. Thomsen
+  - F. Volpe
+  - F. Wagner
+  - A. Weller
+  - C. Wendland
+  - A. Werner
+  - H. Wobig
+  - E. Wuersching
+  - D. Zimmermann
+  publisher: Applied Physics B
+  date: '2001-07-01'
+  link: https://doi.org/b34vwt
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/1521-3773(20010105)40:1<169::AID-ANIE169>3.0.CO;2-T
+  title: The First Synthetic Application of a Monooxygenase Employing Indirect Electrochemical
+    NADH Regeneration
+  authors:
+  - Frank Hollmann
+  - Andreas Schmid
+  - Eberhard Steckhan
+  publisher: Angewandte Chemie International Edition
+  date: '2001-01-04'
+  link: https://doi.org/bqnw5q
+  orcid: 0000-0003-4821-756X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1515/FREQ.2001.55.9-10.263
+  title: 'The Multi-Beam Transmission System for 140 GHz Electron Cyclotron Heating
+    on the Stellarator W7-X: Concept, Design and First Tests'
+  authors:
+  - Walter Kasparek,
+  - Lars Empacher,
+  - Volker Erckmann,
+  - Gerd Gantenbein,
+  - Frank Hollmann,
+  - "Paul-Gerhard Sch\xFCller,"
+  - "Karl Schw\xF6rer,"
+  - "Michael Wei\xDFgerber,"
+  publisher: Frequenz
+  date: '2001-09-01'
+  link: https://doi.org/b823t2
+  orcid: 0000-0003-4821-756X
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +5001,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +5017,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
