@@ -1,16 +1,16 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
-role: pi
-affiliation: University of Colorado
+name: Frank Hollmann
+image: images/Frank-Hollmann.webp
+role: Professor
+affiliation: Delft University of Technology
 aliases:
   - J. Smith
   - J Smith
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
----
+  home-page: https://scholar.google.de/citations?hl=de&user=AaVknIoAAAAJ&view_op=list_works&sortby=pubdate
+  orcid: 0000-0003-4821-756X
 
+---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
 Elit at imperdiet dui accumsan.

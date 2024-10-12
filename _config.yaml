@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: OxyCat Lab
 subtitle: 
-description: 
+description: Our research interest focus around the application of oxidoreductases for organic synthesis. These enzymes have a lot to offer for the organic chemist in terms of selectivity and efficiency. In particular, we are interested in biocatalytic oxyfunctionalization reactions using monooxygenases and peroxygenases as well as reduction reactions using alcohol dehydrogenases and ene reductases.
 header: images/oxycat.jpeg
 footer: images/oxycat.jpeg
 proofer: false
@@ -10,10 +10,7 @@ proofer: false
 links:
   email: f.hollmann@tudelft.nl
   orcid: 0000-0001-8713-9213
-  google-scholar: https://scholar.google.de/citations?user=AaVknIoAAAAJ&hl=de
-  github: niko-longDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: OxyCat Lab
-  youtube: OxyCat Lab
+  google-scholar: https://scholar.google.de/citations?user=AaVknIoAAAAJ&hl=en
 
 ### jekyll settings
 
