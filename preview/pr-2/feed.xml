@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/oxycat-lab-website/preview/pr-2/feed.xml" rel="self" type="application/atom+xml" /><link href="/oxycat-lab-website/preview/pr-2/" rel="alternate" type="text/html" /><updated>2024-10-13T20:59:52+00:00</updated><id>/oxycat-lab-website/preview/pr-2/feed.xml</id><title type="html">OxyCat Lab</title><subtitle>Our research interest focus around the application of oxidoreductases for organic synthesis. These enzymes have a lot to offer for the organic chemist in terms of selectivity and efficiency. In particular, we are interested in biocatalytic oxyfunctionalization reactions using monooxygenases and peroxygenases as well as reduction reactions using alcohol dehydrogenases and ene reductases.</subtitle><entry><title type="html">Selective Peroxygenase-Catalyzed Oxidation of Toluene Derivatives to Benzaldehydes</title><link href="/oxycat-lab-website/preview/pr-2/2024/10/13/example-post-1.html" rel="alternate" type="text/html" title="Selective Peroxygenase-Catalyzed Oxidation of Toluene Derivatives to Benzaldehydes" /><published>2024-10-13T00:00:00+00:00</published><updated>2024-10-13T20:48:00+00:00</updated><id>/oxycat-lab-website/preview/pr-2/2024/10/13/example-post-1</id><content type="html" xml:base="/oxycat-lab-website/preview/pr-2/2024/10/13/example-post-1.html"><![CDATA[<h3 id="introduction">Introduction</h3>
+
+<p>The selective oxidation of toluene derivatives into benzaldehydes presents an ongoing challenge in organic chemistry. Traditionally, the oxidation of toluene derivatives has resulted in a mixture of products, including alcohols, aldehydes, and acids, making it difficult to achieve the desired product with high specificity. Industrial processes often operate at low conversion rates to maintain some level of selectivity, but this results in lower yields and necessitates extensive purification efforts.</p>
+
+<p>Recent advances in biocatalysis, particularly with peroxygenase enzymes, offer a potential solution. Unspecific peroxygenases (UPOs) are capable of facilitating selective oxyfunctionalization reactions, but challenges remain, such as achieving regio- and chemoselectivity in these processes. In this blog, we explore a study that addresses these issues using both substrate engineering and reaction optimization techniques.</p>
+
+<h3 id="biocatalytic-oxidation-with-peroxygenases">Biocatalytic Oxidation with Peroxygenases</h3>
+
+<p>Peroxygenases, like the well-known AaeUPO from <em>Agrocybe aegerita</em>, have gained attention for their ability to catalyze benzylic oxidations. However, in their native form, AaeUPO often produces a complex mixture of oxidation products when reacting with toluene, yielding both benzylic and ring-hydroxylation products.</p>
+
+<p>To improve this selectivity, the researchers employed a two-fold strategy:</p>
+
+<ol>
+  <li><strong>Substrate Engineering</strong>: By modifying the substitution pattern on the aromatic ring of toluene derivatives, the study hypothesized that selective binding to the enzyme’s active site could be achieved, promoting oxidation at specific positions.</li>
+  <li><strong>Reaction Engineering</strong>: The study also moved from aqueous to non-aqueous reaction conditions, aiming to enhance both the concentration of the product and its chemoselectivity.</li>
+</ol>
+
+<h3 id="key-findings">Key Findings</h3>
+
+<ul>
+  <li><strong>Regioselectivity Enhancement</strong>: In silico docking studies confirmed that the position of substrate binding to the AaeUPO active site strongly influences the regioselectivity of the reaction. For example, p-chloro-toluene showed a highly selective transformation, yielding only p-chloro-benzaldehyde, while unmodified toluene led to a mixture of products.</li>
+  <li><strong>Reaction Optimization</strong>: The use of a non-aqueous solvent system improved the chemoselectivity of the reaction, with the aldehyde product being favored over alcohols and acids. Interestingly, the intermediate alcohols did not accumulate significantly, and no benzoic acid derivatives were detected under these conditions.</li>
+  <li><strong>Substrate Scope</strong>: The study tested a range of toluene derivatives with various substituents on the aromatic ring. All tested compounds, except p-ethynyl-toluene, were converted into their corresponding benzaldehydes with selectivity greater than 92%, and in most cases, over 96%.</li>
+  <li><strong>High Product Yields</strong>: Product concentrations of up to 185 mM were achieved, corresponding to over 18 g/L in some cases. This high yield, combined with the reusability of the immobilized enzyme, points to the potential for industrial applications of this method.</li>
+</ul>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>This study demonstrates the power of combining substrate engineering with reaction engineering to tackle the longstanding challenges of regio- and chemoselectivity in biocatalytic oxidation reactions. By moving away from aqueous media and optimizing the interaction between enzyme and substrate, the researchers achieved highly selective benzylic oxidations with promising product yields.</p>
+
+<p>Future work could focus on further optimizing enzyme immobilization and scaling up the process to make it suitable for large-scale industrial applications. Additionally, refining the product isolation methods could further enhance the efficiency of this biocatalytic approach.</p>]]></content><author><name>yutong-wang</name></author><category term="Biocatalysis" /><category term="Selective Oxidation" /><category term="Enzyme Engineering" /><summary type="html"><![CDATA[Introduction]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/oxycat-lab-website/preview/pr-2/images/yutong-post-1.png" /><media:content medium="image" url="/oxycat-lab-website/preview/pr-2/images/yutong-post-1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Hybrid Organometallic and Enzymatic Tandem Catalysis for Oxyfunctionalisation Reactions</title><link href="/oxycat-lab-website/preview/pr-2/2023/02/23/example-post-3.html" rel="alternate" type="text/html" title="Hybrid Organometallic and Enzymatic Tandem Catalysis for Oxyfunctionalisation Reactions" /><published>2023-02-23T00:00:00+00:00</published><updated>2024-10-13T20:48:00+00:00</updated><id>/oxycat-lab-website/preview/pr-2/2023/02/23/example-post-3</id><content type="html" xml:base="/oxycat-lab-website/preview/pr-2/2023/02/23/example-post-3.html"><![CDATA[<h3 id="introduction">Introduction</h3>
+
+<p>In recent years, enzyme-mediated oxyfunctionalisation reactions, such as hydroxylations, epoxidations, and sulfoxidations, have gained significant attention for their high selectivity in organic chemistry. Unspecific peroxygenases (UPOs), especially the evolved recombinant variant from <em>Agrocybe aegerita</em> (rAaeUPO PaDa-I), have shown great potential in these transformations. However, one major limitation of UPOs is their sensitivity to high concentrations of hydrogen peroxide (H₂O₂), which can lead to enzyme deactivation.</p>
+
+<p>To overcome this challenge, a hybrid approach combining organometallic catalysis with enzymatic processes has emerged. In this study, the organometallic complex [Cp*Ir(pica)NO₃] (pica = picolinamidate) is used to regenerate FMNH₂ from FMN, producing a steady supply of H₂O₂ in situ. This system is combined with rAaeUPO to catalyze a wide range of oxyfunctionalisation reactions.</p>
+
+<h3 id="hybrid-catalysis-approach">Hybrid Catalysis Approach</h3>
+
+<h4 id="organometallic-catalyst">Organometallic Catalyst</h4>
+
+<p>The organometallic complex [Cp*Ir(pica)NO₃] efficiently regenerates FMNH₂ from FMN, using formate as a hydride source. This FMNH₂ spontaneously reacts with molecular oxygen, generating H₂O₂, which serves as the oxygen donor for the rAaeUPO-catalyzed reactions. This tandem catalytic system allows for controlled and sustained H₂O₂ production, preventing UPO deactivation and enabling continuous oxyfunctionalisation reactions.</p>
+
+<h4 id="enzymatic-oxyfunctionalisation">Enzymatic Oxyfunctionalisation</h4>
+
+<p>The evolved rAaeUPO PaDa-I is capable of inserting oxygen into non-activated aliphatic and aromatic C-H bonds, enabling the conversion of substrates like ethylbenzene, cis-methyl styrene, and cyclohexane into valuable products. When paired with the organometallic catalyst, this system demonstrated high selectivity and turnover numbers (TONs) for the target reactions.</p>
+
+<h3 id="key-results">Key Results</h3>
+
+<ol>
+  <li><strong>High Efficiency</strong>: The hybrid system achieved TONs up to 18,933 for the selective transformation of ethylbenzene into (R)-1-phenylethanol, with an enantiomeric excess (ee) of over 99%. Similarly, cis-methyl styrene was oxidized to (1R,2S)-cis-methyl styrene oxide with ee &gt; 99% and a TON of 13,488.</li>
+  <li><strong>Wide Substrate Scope</strong>: The system was also tested on various other substrates, including cyclohexane and thioanisole. Although the conversion rates were lower for these substrates, the results still demonstrated the versatility of the hybrid catalytic system.</li>
+  <li><strong>Optimization of Conditions</strong>: The study found that the optimal molar ratio of the organometallic catalyst to rAaeUPO was 50:1. At higher ratios, mutual inhibition between the two catalysts became significant, reducing the overall efficiency of the system.</li>
+  <li><strong>Methanol as a Cosolvent</strong>: To improve reaction conditions, methanol was used as a cosolvent instead of acetonitrile, resulting in higher product yields without significant enzyme inhibition.</li>
+</ol>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>This study demonstrates the effectiveness of combining organometallic and enzymatic catalysis for oxyfunctionalisation reactions. The hybrid system offers a promising alternative to traditional methods, with the ability to generate H₂O₂ in situ and perform highly selective transformations. While further optimization is required for preparative-scale applications, the results suggest that this tandem catalytic approach has significant potential for industrial applications.</p>
+
+<h3 id="future-directions">Future Directions</h3>
+
+<p>Further research will focus on improving the stability and scalability of the system. This includes exploring immobilization strategies for the catalysts and developing biphasic reaction systems to avoid enzyme inhibition by water-miscible cosolvents. Additionally, optimizing the integration of the organometallic and enzymatic components will be critical to enhancing the overall efficiency of the process.</p>]]></content><author><name>chiara-domestici</name></author><category term="Organometallic Catalysis" /><category term="Enzymatic Oxyfunctionalisation" /><category term="Tandem Catalysis" /><summary type="html"><![CDATA[Introduction]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/oxycat-lab-website/preview/pr-2/images/chiara-post-1.png" /><media:content medium="image" url="/oxycat-lab-website/preview/pr-2/images/chiara-post-1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Enzyme-mediated oxidations for the chemist</title><link href="/oxycat-lab-website/preview/pr-2/2021/09/30/example-post-2.html" rel="alternate" type="text/html" title="Enzyme-mediated oxidations for the chemist" /><published>2021-09-30T00:00:00+00:00</published><updated>2024-10-13T20:48:00+00:00</updated><id>/oxycat-lab-website/preview/pr-2/2021/09/30/example-post-2</id><content type="html" xml:base="/oxycat-lab-website/preview/pr-2/2021/09/30/example-post-2.html"><![CDATA[<h3 id="introduction">Introduction</h3>
+
+<p>What makes biocatalytic oxidation green? Oxidation is a central transformation in organic chemistry. Starting off with stoichiometric toxic reagents such as chro-mates, it is coming of age now with catalytic procedures utilizing environmentally benign oxidants such as…………</p>]]></content><author><name>frank-hollmann</name></author><summary type="html"><![CDATA[Introduction]]></summary></entry></feed>
