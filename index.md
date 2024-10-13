@@ -2,7 +2,7 @@
 
 
 ---
-# niko-longDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+**Our research interest focus around the application of oxidoreductases for organic synthesis. These enzymes have a lot to offer for the organic chemist in terms of selectivity and efficiency. In particular, we are interested in biocatalytic oxyfunctionalization reactions using monooxygenases and peroxygenases as well as reduction reactions using alcohol dehydrogenases and ene reductases.**
 
 {% include section.html %}
 
@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/oxycat.jpeg"
   link="research"
   title="Our Research"
   text=text
@@ -48,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/chiara-post-1.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -73,7 +73,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team2.jpg"
   link="team"
   title="Our Team"
   text=text

@@ -1,6 +1,6 @@
 ---
 name: Yutong Wang
-image: images/yutong.JPG
+image: images/yutong.png
 role: postdoc
 group: alum
 links:
